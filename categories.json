@@ -1,0 +1,97 @@
+[
+  {
+    "name": "Eat",
+    "externalId": "eat"
+  },
+  {
+    "name": "Shop",
+    "externalId": "shop"
+  },
+  {
+    "name": "Work",
+    "externalId": "work"
+  },
+  {
+    "name": "Event Spaces",
+    "externalId": "event-spaces"
+  },
+  {
+    "name": "Venues",
+    "externalId": "venues",
+    "parents": [
+      "event-spaces"
+    ]
+  },
+  {
+    "name": "Parking",
+    "externalId": "parking"
+  },
+  {
+    "name": "Culture",
+    "externalId": "culture"
+  },
+  {
+    "name": "Amenities",
+    "externalId": "amenities"
+  },
+  {
+    "name": "Events",
+    "externalId": "events"
+  },
+  {
+    "name": "Meat Lover",
+    "externalId": "eat-meat-lover",
+    "parents": [
+      "eat"
+    ]
+  },
+  {
+    "name": "Healthy Energy",
+    "externalId": "eat-healthy-energy",
+    "parents": [
+      "eat"
+    ]
+  },
+  {
+    "name": "African Soul",
+    "externalId": "eat-african-soul",
+    "parents": [
+      "eat"
+    ]
+  },
+  {
+    "name": "Cheers!",
+    "externalId": "eat-cheers",
+    "parents": [
+      "eat"
+    ]
+  },
+  {
+    "name": "American Classics",
+    "externalId": "eat-american-classics",
+    "parents": [
+      "eat"
+    ]
+  },
+  {
+    "name": "Sweet & Treats",
+    "externalId": "eat-sweet-treats",
+    "parents": [
+      "eat"
+    ]
+  },
+  {
+    "name": "Latin Flavor",
+    "externalId": "eat-latin-flavor",
+    "parents": [
+      "eat"
+    ]
+  },
+  {
+    "name": "Asian Kitchen",
+    "externalId": "eat-asian-kitchen",
+    "parents": [
+      "eat"
+    ]
+  }
+]
