@@ -48,6 +48,18 @@
     "x_floor": "LEVEL 1"
   },
   {
+    "name": "Z Atrium Level 2",
+    "externalId": "z-atrium-level-2",
+    "type": "space",
+    "polygons": [
+      "Z210"
+    ],
+    "categories": [
+      "event-spaces"
+    ],
+    "x_floor": "LEVEL 2"
+  },
+  {
     "name": "X Atrium",
     "externalId": "x-atrium",
     "type": "space",
@@ -2795,10 +2807,11 @@
     "categories": [
       "event-spaces"
     ],
+    "parent": "skylawn",
     "x_floor": "ROOF"
   },
   {
-    "name": "The Lawn",
+    "name": "Skylawn",
     "externalId": "skylawn",
     "type": "space",
     "polygons": [
@@ -2807,6 +2820,19 @@
     "categories": [
       "event-spaces"
     ],
+    "x_floor": "ROOF"
+  },
+  {
+    "name": "The Lawn",
+    "externalId": "lawn",
+    "type": "space",
+    "polygons": [
+      "R306"
+    ],
+    "categories": [
+      "event-spaces"
+    ],
+    "parent": "skylawn",
     "x_floor": "ROOF"
   }
 ]
