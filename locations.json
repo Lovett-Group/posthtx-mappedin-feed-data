@@ -8,8 +8,7 @@
     ],
     "categories": [
       "event-spaces"
-    ],
-    "x_floor": "LEVEL 1"
+    ]
   },
   {
     "name": "POST Market",
@@ -20,8 +19,7 @@
     ],
     "categories": [
       "event-spaces"
-    ],
-    "x_floor": "LEVEL 1"
+    ]
   },
   {
     "name": "O Atrium Level 2",
@@ -32,8 +30,7 @@
     ],
     "categories": [
       "event-spaces"
-    ],
-    "x_floor": "LEVEL 2"
+    ]
   },
   {
     "name": "Z Atrium",
@@ -44,8 +41,7 @@
     ],
     "categories": [
       "event-spaces"
-    ],
-    "x_floor": "LEVEL 1"
+    ]
   },
   {
     "name": "Z Atrium Level 2",
@@ -56,8 +52,7 @@
     ],
     "categories": [
       "event-spaces"
-    ],
-    "x_floor": "LEVEL 2"
+    ]
   },
   {
     "name": "X Atrium",
@@ -93,8 +88,7 @@
       {
         "image": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a42f7e7cb6da09a4638b2ac_679427969dae8423adff0f75_416322120_18408184717031921_466403433339220033_n.webp"
       }
-    ],
-    "x_floor": "LEVEL 1"
+    ]
   },
   {
     "name": "East Wing",
@@ -105,8 +99,7 @@
     ],
     "categories": [
       "event-spaces"
-    ],
-    "x_floor": "LEVEL 1"
+    ]
   },
   {
     "name": "The Docks",
@@ -136,8 +129,7 @@
       {
         "image": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a42f6b7a559aaa4de4a1f01_66abe0a90447f50739207cd3_Juneteenth_PostHTX_MarcoFromHouston__11_of_23__fisdft.webp"
       }
-    ],
-    "x_floor": "LEVEL 1"
+    ]
   },
   {
     "name": "713 Music Hall",
@@ -148,8 +140,7 @@
     ],
     "categories": [
       "event-spaces"
-    ],
-    "x_floor": "LEVEL 1"
+    ]
   },
   {
     "name": "Bowl'd Masala",
@@ -213,8 +204,7 @@
           "Saturday"
         ]
       }
-    ],
-    "x_floor": "LEVEL 1"
+    ]
   },
   {
     "name": "ChòpnBlọk",
@@ -286,8 +276,7 @@
           "Saturday"
         ]
       }
-    ],
-    "x_floor": "LEVEL 1"
+    ]
   },
   {
     "name": "Soy Pinoy",
@@ -365,8 +354,7 @@
           "Saturday"
         ]
       }
-    ],
-    "x_floor": "LEVEL 1"
+    ]
   },
   {
     "name": "Johnny Good Burger",
@@ -438,8 +426,7 @@
           "Saturday"
         ]
       }
-    ],
-    "x_floor": "LEVEL 1"
+    ]
   },
   {
     "name": "Nikubol",
@@ -504,8 +491,7 @@
           "Saturday"
         ]
       }
-    ],
-    "x_floor": "LEVEL 1"
+    ]
   },
   {
     "name": "Ciccio’s Pasta",
@@ -580,8 +566,7 @@
           "Saturday"
         ]
       }
-    ],
-    "x_floor": "LEVEL 1"
+    ]
   },
   {
     "name": "The Funnel Cake House & Cajun Corner",
@@ -640,8 +625,7 @@
           "Saturday"
         ]
       }
-    ],
-    "x_floor": "LEVEL 1"
+    ]
   },
   {
     "name": "Andes Cafe",
@@ -722,8 +706,7 @@
           "Saturday"
         ]
       }
-    ],
-    "x_floor": "LEVEL 1"
+    ]
   },
   {
     "name": "Mamma Tomato Pizza",
@@ -793,8 +776,7 @@
           "Saturday"
         ]
       }
-    ],
-    "x_floor": "LEVEL 1"
+    ]
   },
   {
     "name": "Foreign Grill",
@@ -864,8 +846,7 @@
           "Saturday"
         ]
       }
-    ],
-    "x_floor": "LEVEL 1"
+    ]
   },
   {
     "name": "Phở Lạc Việt",
@@ -928,8 +909,7 @@
           "Saturday"
         ]
       }
-    ],
-    "x_floor": "LEVEL 1"
+    ]
   },
   {
     "name": "Taco Fuego",
@@ -1009,8 +989,7 @@
           "Sunday"
         ]
       }
-    ],
-    "x_floor": "LEVEL 1"
+    ]
   },
   {
     "name": "2 Phat Bastard Pies",
@@ -1082,8 +1061,7 @@
           "Saturday"
         ]
       }
-    ],
-    "x_floor": "LEVEL 1"
+    ]
   },
   {
     "name": "Lea Jane's Hot Chicken",
@@ -1150,8 +1128,7 @@
           "Saturday"
         ]
       }
-    ],
-    "x_floor": "LEVEL 1"
+    ]
   },
   {
     "name": "Hot Tater Diner",
@@ -1235,8 +1212,7 @@
           "Sunday"
         ]
       }
-    ],
-    "x_floor": "LEVEL 1"
+    ]
   },
   {
     "name": "Shakkar Bakery",
@@ -1313,8 +1289,7 @@
           "Sunday"
         ]
       }
-    ],
-    "x_floor": "LEVEL 1"
+    ]
   },
   {
     "name": "Yoyo's Hot Dog",
@@ -1375,8 +1350,7 @@
           "Saturday"
         ]
       }
-    ],
-    "x_floor": "LEVEL 1"
+    ]
   },
   {
     "name": "Thai Kun",
@@ -1453,8 +1427,7 @@
           "Saturday"
         ]
       }
-    ],
-    "x_floor": "LEVEL 1"
+    ]
   },
   {
     "name": "Twisted Grilled Cheese",
@@ -1533,8 +1506,7 @@
           "Saturday"
         ]
       }
-    ],
-    "x_floor": "LEVEL 1"
+    ]
   },
   {
     "name": "Rice Wok",
@@ -1587,8 +1559,7 @@
           "Saturday"
         ]
       }
-    ],
-    "x_floor": "LEVEL 1"
+    ]
   },
   {
     "name": "Aris De Co Jewelry",
@@ -1629,8 +1600,7 @@
           "Saturday"
         ]
       }
-    ],
-    "x_floor": "LEVEL 1"
+    ]
   },
   {
     "name": "AYNA Jewels",
@@ -1648,8 +1618,7 @@
     "social": {
       "instagram": "https://www.instagram.com/aynajewels",
       "website": "https://aynajewels.com/"
-    },
-    "x_floor": "LEVEL 1"
+    }
   },
   {
     "name": "Houston Skateboards",
@@ -1703,8 +1672,7 @@
           "Saturday"
         ]
       }
-    ],
-    "x_floor": "LEVEL 1"
+    ]
   },
   {
     "name": "The Paleta Bar",
@@ -1763,8 +1731,7 @@
           "Saturday"
         ]
       }
-    ],
-    "x_floor": "LEVEL 1"
+    ]
   },
   {
     "name": "Thrive Juices",
@@ -1841,8 +1808,7 @@
           "Saturday"
         ]
       }
-    ],
-    "x_floor": "LEVEL 1"
+    ]
   },
   {
     "name": "Ice Ice Boba",
@@ -1897,8 +1863,7 @@
           "Saturday"
         ]
       }
-    ],
-    "x_floor": "LEVEL 1"
+    ]
   },
   {
     "name": "Return to Sender",
@@ -1944,8 +1909,7 @@
           "Saturday"
         ]
       }
-    ],
-    "x_floor": "LEVEL 1"
+    ]
   },
   {
     "name": "Flower and Cream",
@@ -2017,8 +1981,7 @@
           "Saturday"
         ]
       }
-    ],
-    "x_floor": "LEVEL 1"
+    ]
   },
   {
     "name": "KWO Sushi",
@@ -2082,8 +2045,7 @@
           "Saturday"
         ]
       }
-    ],
-    "x_floor": "LEVEL 1"
+    ]
   },
   {
     "name": "Gelu Italian Ice",
@@ -2142,8 +2104,7 @@
           "Saturday"
         ]
       }
-    ],
-    "x_floor": "LEVEL 1"
+    ]
   },
   {
     "name": "Elotex Cup",
@@ -2204,8 +2165,7 @@
           "Saturday"
         ]
       }
-    ],
-    "x_floor": "LEVEL 1"
+    ]
   },
   {
     "name": "Myoa Cookies",
@@ -2271,8 +2231,7 @@
           "Saturday"
         ]
       }
-    ],
-    "x_floor": "LEVEL 1"
+    ]
   },
   {
     "name": "Address Unknown",
@@ -2313,8 +2272,7 @@
           "Saturday"
         ]
       }
-    ],
-    "x_floor": "LEVEL 1"
+    ]
   },
   {
     "name": "Barbara Jordan Plaza",
@@ -2347,8 +2305,7 @@
       {
         "image": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a42f7eacb6da09a4638b2ed_679408fe4f9b4c2ee2b712c5_Dedication%2520of%2520Barbara%2520Jordan%2520Plaza%2520-%2520Highlight-22-2400w.webp"
       }
-    ],
-    "x_floor": "LEVEL 1"
+    ]
   },
   {
     "name": "X Atrium SE Pod",
@@ -2360,8 +2317,7 @@
     "categories": [
       "event-spaces"
     ],
-    "parent": "x-atrium",
-    "x_floor": "LEVEL 1"
+    "parent": "x-atrium"
   },
   {
     "name": "X Atrium NE Pod",
@@ -2373,8 +2329,7 @@
     "categories": [
       "event-spaces"
     ],
-    "parent": "x-atrium",
-    "x_floor": "LEVEL 1"
+    "parent": "x-atrium"
   },
   {
     "name": "Art Club",
@@ -2408,8 +2363,7 @@
       {
         "image": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a42f7eacb6da09a4638b2d6_67abe7996b39d272a0d4e7f6_Club-14_web.webp"
       }
-    ],
-    "x_floor": "LEVEL 1"
+    ]
   },
   {
     "name": "Xecta Digital Labs",
@@ -2425,8 +2379,7 @@
     "logoKey": "https://uploads-ssl.webflow.com/60754790876509970970cb53/6601b80e3ef2c60ee6bb0046_Xecta_logo_BLK.png",
     "social": {
       "website": "https://xecta.com/"
-    },
-    "x_floor": "LEVEL 1"
+    }
   },
   {
     "name": "Training Room (Ste 1420)",
@@ -2438,8 +2391,7 @@
     "categories": [
       "event-spaces"
     ],
-    "parent": "tenant-common-desk-by-wework",
-    "x_floor": "LEVEL 1"
+    "parent": "tenant-common-desk-by-wework"
   },
   {
     "name": "Populous",
@@ -2455,8 +2407,7 @@
     "logoKey": "https://uploads-ssl.webflow.com/60754790876509970970cb53/65fdf67eb5feff9ed501c541_Populous_logo_BLK.svg",
     "social": {
       "website": "https://populous.com/"
-    },
-    "x_floor": "LEVEL 1"
+    }
   },
   {
     "name": "BR+A Consulting Engineers",
@@ -2472,8 +2423,7 @@
     "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6758d21b49fcce655c08dca2_logo-bra_BLK.svg",
     "social": {
       "website": "https://www.brplusa.com/"
-    },
-    "x_floor": "LEVEL 1"
+    }
   },
   {
     "name": "FotoLab Studio Houston",
@@ -2489,8 +2439,7 @@
     "logoKey": "https://uploads-ssl.webflow.com/60754790876509970970cb53/65fdf71358e055152c26fdc8_FotoLab_logo.svg",
     "social": {
       "website": "https://www.fotolab.studio/locations/houston"
-    },
-    "x_floor": "LEVEL 1"
+    }
   },
   {
     "name": "Arcus Advisors",
@@ -2506,8 +2455,7 @@
     "logoKey": "https://uploads-ssl.webflow.com/60754790876509970970cb53/6601ae05ba19ad34679f1fb4_Arcus_logo_BLK.webp",
     "social": {
       "website": "https://arcusadvisors.com/"
-    },
-    "x_floor": "LEVEL 1"
+    }
   },
   {
     "name": "Quantum Commodity Intelligence",
@@ -2523,8 +2471,7 @@
     "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6758d36efc05d244087292a1_qci_logo_BLK.svg",
     "social": {
       "website": "https://www.qcintel.com/"
-    },
-    "x_floor": "LEVEL 1"
+    }
   },
   {
     "name": "Pistachio's Coffee",
@@ -2576,8 +2523,7 @@
           "Saturday"
         ]
       }
-    ],
-    "x_floor": "LEVEL 1"
+    ]
   },
   {
     "name": "El Tiempo Cantina",
@@ -2588,8 +2534,7 @@
     ],
     "categories": [
       "event-spaces"
-    ],
-    "x_floor": "LEVEL 2"
+    ]
   },
   {
     "name": "The Office",
@@ -2625,8 +2570,7 @@
       {
         "image": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a42f7e9cb6da09a4638b2be_6794305083b266391376fbb5_UNICEF.%2520HEARTSTRINGS.89_web.webp"
       }
-    ],
-    "x_floor": "LEVEL 2"
+    ]
   },
   {
     "name": "Shepley Bulfinch",
@@ -2642,8 +2586,7 @@
     "logoKey": "https://uploads-ssl.webflow.com/60754790876509970970cb53/65fdf7e7a73e00babc182c0e_SB_logo_BLK.svg",
     "social": {
       "website": "https://www.shepleybulfinch.com/"
-    },
-    "x_floor": "LEVEL 2"
+    }
   },
   {
     "name": "Redfin",
@@ -2659,8 +2602,7 @@
     "logoKey": "https://uploads-ssl.webflow.com/60754790876509970970cb53/6601ab39d2572bc515fc6a61_Redfin_logo_BLK.svg",
     "social": {
       "website": "https://www.redfin.com/"
-    },
-    "x_floor": "LEVEL 2"
+    }
   },
   {
     "name": "Lovett Industrial",
@@ -2676,8 +2618,7 @@
     "logoKey": "https://uploads-ssl.webflow.com/60754790876509970970cb53/65fdf77121eaf99e8a1bfca9_LovettIndustrial_Logo_BLK.svg",
     "social": {
       "website": "https://lovettindustrial.com/"
-    },
-    "x_floor": "LEVEL 2"
+    }
   },
   {
     "name": "Common Desk",
@@ -2692,8 +2633,7 @@
     "logoKey": "https://uploads-ssl.webflow.com/60754790876509970970cb53/6410e8a10a1d5b072beece4c_CommonDesk_Logo.svg",
     "social": {
       "website": "https://thecommondesk.com/locations/post-houston-coworking/"
-    },
-    "x_floor": "LEVEL 2"
+    }
   },
   {
     "name": "Skylawn Room",
@@ -2723,8 +2663,7 @@
       {
         "image": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a42f7e7cb6da09a4638b2a6_69c44fca90be8eb9a03e4ccc_SkylawnRoom-2.webp"
       }
-    ],
-    "x_floor": "ROOF"
+    ]
   },
   {
     "name": "Penthouse",
@@ -2757,8 +2696,7 @@
       {
         "image": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a42f7e7cb6da09a4638b2a0_69710ead6a925c027eab0289_05e38092b78a4cab53bf462679482712_%25C2%25A9PamAshleyPhoto_RPM_Chef_For_Paws-112.webp"
       }
-    ],
-    "x_floor": "ROOF"
+    ]
   },
   {
     "name": "Outpost",
@@ -2794,8 +2732,7 @@
       {
         "image": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a42f7eacb6da09a4638b2e5_6794166c0d9b117864efcd57_20240127_08797_web.webp"
       }
-    ],
-    "x_floor": "ROOF"
+    ]
   },
   {
     "name": "Skyfarm",
@@ -2807,8 +2744,7 @@
     "categories": [
       "event-spaces"
     ],
-    "parent": "skylawn",
-    "x_floor": "ROOF"
+    "parent": "skylawn"
   },
   {
     "name": "Skylawn",
@@ -2819,8 +2755,7 @@
     ],
     "categories": [
       "event-spaces"
-    ],
-    "x_floor": "ROOF"
+    ]
   },
   {
     "name": "The Lawn",
@@ -2832,7 +2767,6 @@
     "categories": [
       "event-spaces"
     ],
-    "parent": "skylawn",
-    "x_floor": "ROOF"
+    "parent": "skylawn"
   }
 ]
