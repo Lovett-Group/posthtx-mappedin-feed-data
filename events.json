@@ -1,31 +1,5 @@
 [
   {
-    "name": "Dabke Dance Class | Alahrar Dabke Group X Pistachio's Coffee",
-    "externalId": "6ace550410f2429243c2af81",
-    "type": "event",
-    "startDate": 1793232000000,
-    "endDate": 1793239200000,
-    "showDate": 1793163600000,
-    "location": "lawn",
-    "description": "Join Alahrar Dabke Group for a free, high-energy evening celebrating dabke, the traditional Levantine folk dance rooted in rhythm, movement, and community—powered by Pistachio's Coffee Shop.",
-    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a8dc3003b92ee50aa2be5d8_new%20photo.jpg",
-    "x_rsvpLink": "https://eventrill.com/dabke-workshop",
-    "x_slug": "dabke-dance-class-alahrar-dabke-group-x-pistachios-coffee"
-  },
-  {
-    "name": "Free Spanish Yoga Class ",
-    "externalId": "6aab1d8a1ffdf5eab15acd23",
-    "type": "event",
-    "startDate": 1793232000000,
-    "endDate": 1793235600000,
-    "showDate": 1793163600000,
-    "location": "outpost",
-    "description": "All levels free yoga IN SPANISH. ",
-    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/670060b50e71b2e308266ad6_processed-B9516666-F10C-402B-8176-E4E92E3F2176.webp",
-    "x_rsvpLink": "https://eventrill.com/free-spanish-yoga-class",
-    "x_slug": "free-spanish-yoga-class-20"
-  },
-  {
     "name": "The Social Infusion: Game Night at POST",
     "externalId": "6accd92388c4baf53d27b286",
     "type": "event",
@@ -241,5 +215,30 @@
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/69fc6efb745c815265a3be6b_8370b286-7a5d-4d14-acf5-967590b78e7e_TABLET_LANDSCAPE_LARGE_16_9.webp",
     "x_rsvpLink": "https://www.ticketmaster.com/morrissey-houston-texas-11-01-2026/event/3A006497EBA3823E?_gl=1*18q63hw*_ga*NzYxNTUyNDQ2LjE3NDQ5NDcwOTQ.*_ga_C1T806G4DF*czE3NzgxNTA2OTQkbzgxJGcwJHQxNzc4MTUwNjk0JGo2MCRsMCRoMA..",
     "x_slug": "morrissey"
+  },
+  {
+    "name": "Free Zumba Class - Thursday",
+    "externalId": "66abe0a90447f50739207bf0",
+    "type": "event",
+    "startDate": 1793926800000,
+    "endDate": 1793930400000,
+    "showDate": 1793858400000,
+    "location": "x-atrium",
+    "description": "POST is hosting Free Zumba Classes every 1st Thursday! Zumba is a fun class that involves cardio and Latin dance.",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f507392082f3_297A6045-%20Small.jpg",
+    "x_rsvpLink": "https://eventrill.com/freezumbaclass",
+    "x_slug": "free-zumba-class"
+  },
+  {
+    "name": "Arcángel - La 8va Maravilla World Tour",
+    "externalId": "6a190627ab050679107f06f5",
+    "type": "event",
+    "startDate": 1793930400000,
+    "endDate": 1793944799999,
+    "showDate": 1793858400000,
+    "location": "713-music-hall",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a190603b54a2891af52b5cd_QQ%E6%88%AA%E5%9B%BE20260528221958.jpg",
+    "x_rsvpLink": "https://www.ticketmaster.com/arcangel-la-8va-maravilla-world-tour-houston-texas-11-05-2026/event/3A0064B49C099594?_gl=1*3h7sgl*_ga*NzYxNTUyNDQ2LjE3NDQ5NDcwOTQ.*_ga_C1T806G4DF*czE3ODAwMjQ1NTIkbzEwMSRnMSR0MTc4MDAyNDU1NSRqNTckbDAkaDA.",
+    "x_slug": "arcangel---la-8va-maravilla-world-tour"
   }
 ]
