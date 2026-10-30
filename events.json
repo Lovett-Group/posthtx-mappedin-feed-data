@@ -1,60 +1,5 @@
 [
   {
-    "name": "The Social Infusion: Game Night at POST",
-    "externalId": "6accd92388c4baf53d27b286",
-    "type": "event",
-    "startDate": 1793314800000,
-    "endDate": 1793325600000,
-    "showDate": 1793250000000,
-    "location": "post-market",
-    "description": "Join us for POST Market Game Night! Enjoy food from POST Market International Food Hall and gather with others to enjoy a variety of games.",
-    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6accd7ef2ee6616b062c4e37_Game%20Night.png"
-  },
-  {
-    "name": "PINK OUT: Unwind & Stretch with BendiCarmen",
-    "externalId": "6ab62742611a8be5eef5f998",
-    "type": "event",
-    "startDate": 1793315700000,
-    "endDate": 1793320200000,
-    "showDate": 1793250000000,
-    "location": "z-atrium-level-2",
-    "description": "Join Unbinded Stretch for an evening of unwinding with the community — a stretch and mobility session on the rooftop of POST, where Houston’s skyline meets restorative movement.",
-    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a96de6d5eba841b53673ce6_stretch.webp"
-  },
-  {
-    "name": "Jazz Jam on the Docks",
-    "externalId": "6a9102bb7ce91e3265d00518",
-    "type": "event",
-    "startDate": 1793318400000,
-    "endDate": 1793325600000,
-    "showDate": 1793250000000,
-    "location": "the-docks",
-    "description": "Jazz Jam on the Docks for our Spring Concert Series with Madison Arts Inc & More! ",
-    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a0f371747145123c60247e9_web%20banner%201.jpg"
-  },
-  {
-    "name": "Art Club Open Decks",
-    "externalId": "6a96e61398b18abfd627c852",
-    "type": "event",
-    "startDate": 1793322000000,
-    "endDate": 1793336400000,
-    "showDate": 1793250000000,
-    "location": "art-club",
-    "description": "Art Club opens its doors to Houston's up-and-coming DJs with an Open Decks night in collaboration with Sound Dojo DJ Academy.",
-    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a8b7ecbdef9dac5b85cbd73_id_551_c0497986-b9d1-4508-1234567607-87bdb8854a4a.webp"
-  },
-  {
-    "name": "Movie Night in the Dark: Ghostbusters",
-    "externalId": "6a5528a05984443065441211",
-    "type": "event",
-    "startDate": 1793322000000,
-    "endDate": 1793329200000,
-    "showDate": 1793250000000,
-    "location": "o-atrium-level-2",
-    "description": "Come by POST for Movie Night! For this edition, we will be showing 'Ghostbusters' in our new event space at POST Market Level II.",
-    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a55288fc6e602f7f79cadce_Ghostbusters.jpg"
-  },
-  {
     "name": "Glitch: A Glow in the Dark Yoga Experience",
     "externalId": "6ab9614ea25a7ca3e0803fdc",
     "type": "event",
@@ -203,5 +148,49 @@
     "showDate": 1793858400000,
     "location": "713-music-hall",
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a190603b54a2891af52b5cd_QQ%E6%88%AA%E5%9B%BE20260528221958.jpg"
+  },
+  {
+    "name": "SoleTies Shakeout Run",
+    "externalId": "6ad0b0687baedeb426441f00",
+    "type": "event",
+    "startDate": 1793977200000,
+    "endDate": 1793984400000,
+    "showDate": 1793944800000,
+    "location": "barbara-jordan-plaza",
+    "description": "Join us for a fun run and social gathering - let's lace up our sneakers and make some new friends!",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6ad0b0217828e30c2941a4e4_Soleties2.jpg"
+  },
+  {
+    "name": "Vegas Nights by Hot Tater Diner ",
+    "externalId": "6abae7ec1199af7240ccd074",
+    "type": "event",
+    "startDate": 1794013200000,
+    "endDate": 1794024000000,
+    "showDate": 1793944800000,
+    "location": "northeast-pod",
+    "description": "Vegas Nights at POST presented by Hot Tater Diner, Dress to Impress and Play! ",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6abae6e7aa4b0456c677a2ba_5AC17FA3-9B43-49DB-AEC8-C30392020FA8_edit.png"
+  },
+  {
+    "name": "Pink Floyd Tribute Band Rooftop Concert ",
+    "externalId": "66abe0a90447f50739207dff",
+    "type": "event",
+    "startDate": 1794016800000,
+    "endDate": 1794024000000,
+    "showDate": 1793944800000,
+    "location": "outpost",
+    "description": "We welcome back Pigs on The Wall, the tribute to the legendary British psychedelic group, Pink Floyd at Outpost! Drink, dance & rock out to all your favorite songs with amazing downtown skyline views. ‍",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/67571ecd5fa4b158a2562578_13662101_587316881429657_1581324489918700662_o.webp"
+  },
+  {
+    "name": "DJ Night — shekdash",
+    "externalId": "6abd5b5650349a711314ad2b",
+    "type": "event",
+    "startDate": 1794024000000,
+    "endDate": 1794042000000,
+    "showDate": 1793944800000,
+    "location": "art-club",
+    "description": "GULP! presents the high-energy uncompromising grooves of New York's shekdash.",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6abd5b33d83ddb5d669ee21c_Club-77_web.jpg"
   }
 ]
