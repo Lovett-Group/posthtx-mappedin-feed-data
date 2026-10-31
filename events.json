@@ -97,6 +97,17 @@
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/69fc6efb745c815265a3be6b_8370b286-7a5d-4d14-acf5-967590b78e7e_TABLET_LANDSCAPE_LARGE_16_9.webp"
   },
   {
+    "name": "Trivia Tuesday:  Election Mania",
+    "externalId": "6ae5d43774f5900247015d05",
+    "type": "event",
+    "startDate": 1793750400000,
+    "endDate": 1793757600000,
+    "showDate": 1793685600000,
+    "location": "post-market",
+    "description": "Join us every Tuesday evening at POST Market for Trivia Tuesdays. Test your knowledge across a wide range of topics, from pop culture and movies to history and sports.",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66c8a8f367c7e7fef3b5f6de_1.Trivia%20Night%20-%20Web.webp"
+  },
+  {
     "name": "Free Zumba Class - Thursday",
     "externalId": "66abe0a90447f50739207bf0",
     "type": "event",
