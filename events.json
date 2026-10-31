@@ -1,37 +1,5 @@
 [
   {
-    "name": "Glitch: A Glow in the Dark Yoga Experience",
-    "externalId": "6ab9614ea25a7ca3e0803fdc",
-    "type": "event",
-    "startDate": 1793408400000,
-    "endDate": 1793412000000,
-    "showDate": 1793336400000,
-    "location": "o-atrium-level-2",
-    "description": "Experience Distortion by Black Swan Yoga - A Glow in the Dark Yoga Experience",
-    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6abb925d3e04df49b42a10b4_glitch%20website%20banner.png"
-  },
-  {
-    "name": "ALVARO DIAZ - OMAKASE TOUR",
-    "externalId": "6a2ba477907458bd63fac586",
-    "type": "event",
-    "startDate": 1793408400000,
-    "endDate": 1793422799999,
-    "showDate": 1793336400000,
-    "location": "713-music-hall",
-    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a2ba46d907458bd63fac4cf_6f135f59-6390-4875-9a44-85a157b66ec7_TABLET_LANDSCAPE_LARGE_16_9.webp"
-  },
-  {
-    "name": "KISS Tribute Band Rooftop Concert",
-    "externalId": "6849e39f85dcdce8118c18c7",
-    "type": "event",
-    "startDate": 1793408400000,
-    "endDate": 1793415600000,
-    "showDate": 1793336400000,
-    "location": "outpost",
-    "description": "Join us at Outpost, our rooftop pavilion, for a special tribute performance by KISS Alike!",
-    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/684ae77f75871be86e38efb9_thumbnail_KA%20Band%20Image.webp"
-  },
-  {
     "name": "DJ Night — Jamback",
     "externalId": "6a342db8243063275a9dfa9b",
     "type": "event",
@@ -192,5 +160,47 @@
     "location": "art-club",
     "description": "GULP! presents the high-energy uncompromising grooves of New York's shekdash.",
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6abd5b33d83ddb5d669ee21c_Club-77_web.jpg"
+  },
+  {
+    "name": "Coffee and Cars",
+    "externalId": "6a39498dca443063103bcee4",
+    "type": "event",
+    "startDate": 1794063600000,
+    "endDate": 1794070800000,
+    "showDate": 1794031200000,
+    "description": "Come out and enjoy an amazing display of machines at POST!",
+    "imageKey": "https://uploads-ssl.webflow.com/60754790876509970970cb53/629e7fa03c908d01d15b1f65_DJI_0179-1200w.jpg"
+  },
+  {
+    "name": "Sabaton: Legends on Tour",
+    "externalId": "68db67c48a385b3640790af9",
+    "type": "event",
+    "startDate": 1794099600000,
+    "endDate": 1794117599999,
+    "showDate": 1794031200000,
+    "location": "713-music-hall",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/68db67b3dee6da9dfc748e8d_faa2c053-7247-49f9-9cd2-9dd6512986af_TABLET_LANDSCAPE_LARGE_16_9.webp"
+  },
+  {
+    "name": "Movie Night on the Lawn: Addams Family",
+    "externalId": "6abaa1879bd860b4688454f2",
+    "type": "event",
+    "startDate": 1794103200000,
+    "endDate": 1794110400000,
+    "showDate": 1794031200000,
+    "location": "lawn",
+    "description": "Come by POST for Movie Night on the Lawn! For this edition on our rooftop park, Skylawn, we'll be showing 'Addams Family.'",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6abaa1805f4f445e698d7288_Addams_Family_FI.png"
+  },
+  {
+    "name": "DJ Night — Johnny Chay",
+    "externalId": "6ad10400ceeaa7e71e225fe6",
+    "type": "event",
+    "startDate": 1794110400000,
+    "endDate": 1794128400000,
+    "showDate": 1794031200000,
+    "location": "art-club",
+    "description": "Revive presents Johnny Chay at Art Club.",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a185c81acea3cfe4d299f27_Club-82_web.jpg"
   }
 ]
