@@ -1,48 +1,5 @@
 [
   {
-    "name": "DJ Night — Jamback",
-    "externalId": "6a342db8243063275a9dfa9b",
-    "type": "event",
-    "startDate": 1793415600000,
-    "endDate": 1793433600000,
-    "showDate": 1793336400000,
-    "location": "art-club",
-    "description": "JAMBACK is a rising minimal and tech-house talent whose record-breaking Beatport #1 hit “Positive” on Circoloco Records has established him as one of the scene’s most exciting artists heading into 2026.",
-    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a342d4faf7f74fde9ccb9c7_Club-69_web.jpg"
-  },
-  {
-    "name": "Moms in Motion",
-    "externalId": "6abeda4b907d72d88df7ee9f",
-    "type": "event",
-    "startDate": 1793455200000,
-    "endDate": 1793462400000,
-    "showDate": 1793422800000,
-    "location": "skylawn-room",
-    "description": "Join us for a Mom & Baby Workout Class!",
-    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a4e7d979b33e1a46f297cc3_web%20banner.jpg"
-  },
-  {
-    "name": "Halloween Foam Party",
-    "externalId": "6aba702517a1e64f88dadfa4",
-    "type": "event",
-    "startDate": 1793462400000,
-    "endDate": 1793473200000,
-    "showDate": 1793422800000,
-    "location": "lawn",
-    "description": "Bring out the kiddos for our family-fun event Halloween Foam Party with family friendly music, and lots of FOAM!",
-    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6aba89991635393559266ee4_Halloween%20Foam.jpg"
-  },
-  {
-    "name": "Victoria Monét: Frequency Of Love Tour",
-    "externalId": "6aaba5ec6896a776a8c53a57",
-    "type": "event",
-    "startDate": 1793494800000,
-    "endDate": 1793509199999,
-    "showDate": 1793422800000,
-    "location": "713-music-hall",
-    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6aaba5c81fe8e6775adad1db_Victoria-Monet.webp"
-  },
-  {
     "name": "Club Shugga Halloween feat. Ushka & JAXX",
     "externalId": "6ac3cdc2aeb90d0a844647b5",
     "type": "event",
@@ -54,7 +11,7 @@
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6abd5b33d83ddb5d669ee21c_Club-77_web.jpg"
   },
   {
-    "name": "POST Apocalypse Party 2026",
+    "name": "SOLD OUT: POST Apocalypse Party 2026",
     "externalId": "6ab7f2c5ff4bdf6aafda0911",
     "type": "event",
     "startDate": 1793502000000,
@@ -213,5 +170,26 @@
     "location": "art-club",
     "description": "Revive presents Johnny Chay at Art Club.",
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a185c81acea3cfe4d299f27_Club-82_web.jpg"
+  },
+  {
+    "name": "Acorns & Artisans",
+    "externalId": "6ac7cd5c8b2a9cef0c8d5dd8",
+    "type": "event",
+    "startDate": 1794157200000,
+    "endDate": 1794178800000,
+    "showDate": 1794117600000,
+    "location": "x-atrium",
+    "description": "Visit Acorns & Artisans Market, a curated fall market featuring local artisans, boutiques, bakers, makers, and small businesses from across Houston!",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6ac7c9afc6a4d90b91d7d362_web%20banner.jpg"
+  },
+  {
+    "name": "Adrian Uribe: 50 y Pico Tour",
+    "externalId": "6a6ffaaf8a668608337a524b",
+    "type": "event",
+    "startDate": 1794189600000,
+    "endDate": 1794203999999,
+    "showDate": 1794117600000,
+    "location": "713-music-hall",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a6ffa0de209f3b2a91fcd25_96089d0b-9307-4b91-8024-b81b60bf78ca_TABLET_LANDSCAPE_LARGE_16_9.webp"
   }
 ]
