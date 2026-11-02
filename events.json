@@ -1,59 +1,5 @@
 [
   {
-    "name": "Club Shugga Halloween feat. Ushka & JAXX",
-    "externalId": "6ac3cdc2aeb90d0a844647b5",
-    "type": "event",
-    "startDate": 1793502000000,
-    "endDate": 1793520000000,
-    "showDate": 1793422800000,
-    "location": "art-club",
-    "description": "Club Shugga takes over Art Club's Halloween party for a ritualistic evening featuring Ushka & JAXX",
-    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6abd5b33d83ddb5d669ee21c_Club-77_web.jpg"
-  },
-  {
-    "name": "SOLD OUT: POST Apocalypse Party 2026",
-    "externalId": "6ab7f2c5ff4bdf6aafda0911",
-    "type": "event",
-    "startDate": 1793502000000,
-    "endDate": 1793520000000,
-    "showDate": 1793422800000,
-    "location": "x-atrium",
-    "description": "Step into a future where the world has ended but the party is just beginning....‍POST Apocalypse is Houston’s ultimate Halloween dance party.",
-    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6ac56390c1b62f3d0de37cdd_web%20banner%20.jpg"
-  },
-  {
-    "name": "Eden Church Houston: Sunday Service",
-    "externalId": "67ad0cca3430a3bc450b472e",
-    "type": "event",
-    "startDate": 1793543400000,
-    "endDate": 1793557800000,
-    "showDate": 1793509200000,
-    "location": "z-atrium",
-    "description": "Join Eden Church for service every Sunday! ",
-    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/67ad1c077094a2e5706a4936_Eden%20Church%20Houston%20Gathering%20-1200px.webp"
-  },
-  {
-    "name": "Día De Los Muertos Lucha Libre",
-    "externalId": "6aa2dc72de6849e031d46553",
-    "type": "event",
-    "startDate": 1793572200000,
-    "endDate": 1793586600000,
-    "showDate": 1793509200000,
-    "location": "x-atrium",
-    "description": "Join us for a Día De Los Muertos Lucha Libre throwdown in collaboration with Manchild and El Tiempo POST!",
-    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6aaac0c6aed586032a173d2b_smaller.jpg"
-  },
-  {
-    "name": "Morrissey",
-    "externalId": "69fc6f14358614b74bc0dc4e",
-    "type": "event",
-    "startDate": 1793586000000,
-    "endDate": 1793599199999,
-    "showDate": 1793509200000,
-    "location": "713-music-hall",
-    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/69fc6efb745c815265a3be6b_8370b286-7a5d-4d14-acf5-967590b78e7e_TABLET_LANDSCAPE_LARGE_16_9.webp"
-  },
-  {
     "name": "Trivia Tuesday:  Election Mania",
     "externalId": "6ae5d43774f5900247015d05",
     "type": "event",
