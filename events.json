@@ -126,5 +126,16 @@
     "showDate": 1794117600000,
     "location": "713-music-hall",
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a6ffa0de209f3b2a91fcd25_96089d0b-9307-4b91-8024-b81b60bf78ca_TABLET_LANDSCAPE_LARGE_16_9.webp"
+  },
+  {
+    "name": "Houston Music Festival and POST present Elijah Fox: Ambient City",
+    "externalId": "6ac7ec248fd1a0cdaa4721e5",
+    "type": "event",
+    "startDate": 1794360600000,
+    "endDate": 1794366000000,
+    "showDate": 1794290400000,
+    "location": "art-club",
+    "description": "Houston Music Festival and POST present jazz pianist Elijah Fox performing 'Ambient City', a solo cinematic keyboard performance that finds the soul in the hum and glow of the city.",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6ac7ebbff6aa7361e7abd8bc_web%20use.jpg"
   }
 ]
