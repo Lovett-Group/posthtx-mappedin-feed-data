@@ -1,16 +1,5 @@
 [
   {
-    "name": "Trivia Tuesday:  Election Mania",
-    "externalId": "6ae5d43774f5900247015d05",
-    "type": "event",
-    "startDate": 1793750400000,
-    "endDate": 1793757600000,
-    "showDate": 1793685600000,
-    "location": "post-market",
-    "description": "Join us every Tuesday evening at POST Market for Trivia Tuesdays. Test your knowledge across a wide range of topics, from pop culture and movies to history and sports.",
-    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66c8a8f367c7e7fef3b5f6de_1.Trivia%20Night%20-%20Web.webp"
-  },
-  {
     "name": "Free Zumba Class - Thursday",
     "externalId": "66abe0a90447f50739207bf0",
     "type": "event",
@@ -52,17 +41,6 @@
     "location": "outpost",
     "description": "We welcome back Pigs on The Wall, the tribute to the legendary British psychedelic group, Pink Floyd at Outpost! Drink, dance & rock out to all your favorite songs with amazing downtown skyline views. ‍",
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/67571ecd5fa4b158a2562578_13662101_587316881429657_1581324489918700662_o.webp"
-  },
-  {
-    "name": "DJ Night — shekdash",
-    "externalId": "6abd5b5650349a711314ad2b",
-    "type": "event",
-    "startDate": 1794024000000,
-    "endDate": 1794042000000,
-    "showDate": 1793944800000,
-    "location": "art-club",
-    "description": "GULP! presents the high-energy uncompromising grooves of New York's shekdash.",
-    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6abd5b33d83ddb5d669ee21c_Club-77_web.jpg"
   },
   {
     "name": "Coffee and Cars",
@@ -107,6 +85,17 @@
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a185c81acea3cfe4d299f27_Club-82_web.jpg"
   },
   {
+    "name": "Eden Church Houston: Sunday Service",
+    "externalId": "67ad0cca3430a3bc450b472e",
+    "type": "event",
+    "startDate": 1794148200000,
+    "endDate": 1794162600000,
+    "showDate": 1794117600000,
+    "location": "z-atrium",
+    "description": "Join Eden Church for service every Sunday! ",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/67ad1c077094a2e5706a4936_Eden%20Church%20Houston%20Gathering%20-1200px.webp"
+  },
+  {
     "name": "Acorns & Artisans",
     "externalId": "6ac7cd5c8b2a9cef0c8d5dd8",
     "type": "event",
@@ -116,6 +105,17 @@
     "location": "x-atrium",
     "description": "Visit Acorns & Artisans Market, a curated fall market featuring local artisans, boutiques, bakers, makers, and small businesses from across Houston!",
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6ac7c9afc6a4d90b91d7d362_web%20banner.jpg"
+  },
+  {
+    "name": "Live Band on the Lawn: Alias Band",
+    "externalId": "6aea0e6e131412219d0d203d",
+    "type": "event",
+    "startDate": 1794184200000,
+    "endDate": 1794191400000,
+    "showDate": 1794117600000,
+    "location": "lawn",
+    "description": "Visit Skylawn for a fun night celebrating the music hits from every genre. ",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/682ccd7f16d5fa3da976e392_70s%2680s%20Social%20Base.webp"
   },
   {
     "name": "Adrian Uribe: 50 y Pico Tour",
@@ -137,5 +137,16 @@
     "location": "art-club",
     "description": "Houston Music Festival and POST present jazz pianist Elijah Fox performing 'Ambient City', a solo cinematic keyboard performance that finds the soul in the hum and glow of the city.",
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6ac7ebbff6aa7361e7abd8bc_web%20use.jpg"
+  },
+  {
+    "name": "Free Spanish Yoga Class ",
+    "externalId": "6ae917aef61f6302b98698bc",
+    "type": "event",
+    "startDate": 1794445200000,
+    "endDate": 1794448800000,
+    "showDate": 1794376800000,
+    "location": "outpost",
+    "description": "All levels free yoga IN SPANISH. ",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/670060b50e71b2e308266ad6_processed-B9516666-F10C-402B-8176-E4E92E3F2176.webp"
   }
 ]
