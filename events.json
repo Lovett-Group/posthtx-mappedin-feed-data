@@ -192,5 +192,37 @@
     "location": "outpost",
     "description": "All levels free yoga IN SPANISH. ",
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/670060b50e71b2e308266ad6_processed-B9516666-F10C-402B-8176-E4E92E3F2176.webp"
+  },
+  {
+    "name": "Line Dance Night",
+    "externalId": "66abe0a90447f50739207fa2",
+    "type": "event",
+    "startDate": 1794531600000,
+    "endDate": 1794535200000,
+    "showDate": 1794463200000,
+    "location": "x-atrium",
+    "description": "Line Dance Night",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f50739208411_20230613_POST_LineDance-19-Small_kb.webp"
+  },
+  {
+    "name": "Jessie Reyez: A Little Vengeance Tour",
+    "externalId": "6a9a8b355913f8d61e43b697",
+    "type": "event",
+    "startDate": 1794535200000,
+    "endDate": 1794549599999,
+    "showDate": 1794463200000,
+    "location": "713-music-hall",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a9a8b1fe5a6b0bcf92c7c26_b7dd9eb7-3100-4f20-a850-e277be1e1d21_SOURCE.png"
+  },
+  {
+    "name": "Movie Night on the Lawn: Addams Family Values",
+    "externalId": "68c20778d38ce42d62f5d0ac",
+    "type": "event",
+    "startDate": 1794535200000,
+    "endDate": 1794542400000,
+    "showDate": 1794463200000,
+    "location": "lawn",
+    "description": "Come by POST for Movie Night on the Lawn! For this edition on our rooftop park, Skylawn, we'll be showing 'Addams Family Values.'",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/68c207527a1d7dbabd5963d6_d4cca24f-ec95-4044-a2bd-835e4f00784d.sized-1000x1000.webp"
   }
 ]
