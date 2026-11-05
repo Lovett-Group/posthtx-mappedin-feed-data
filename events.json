@@ -32,6 +32,39 @@
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6ad0b0217828e30c2941a4e4_Soleties2.jpg"
   },
   {
+    "name": "Voices of Freedom 250",
+    "externalId": "6aebb3398d12f750b316e110-the-office",
+    "type": "event",
+    "startDate": 1794006000000,
+    "endDate": 1794178800000,
+    "showDate": 1793944800000,
+    "location": "the-office",
+    "description": "Join us for a full weekend of activities dedicated to sharing the stories of America's veterans. ",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6aebc418885ee9caa6671c57_Screenshot%202026-11-04%20154526.jpg"
+  },
+  {
+    "name": "Voices of Freedom 250",
+    "externalId": "6aebb3398d12f750b316e110-x-atrium",
+    "type": "event",
+    "startDate": 1794006000000,
+    "endDate": 1794178800000,
+    "showDate": 1793944800000,
+    "location": "x-atrium",
+    "description": "Join us for a full weekend of activities dedicated to sharing the stories of America's veterans. ",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6aebc418885ee9caa6671c57_Screenshot%202026-11-04%20154526.jpg"
+  },
+  {
+    "name": "Voices of Freedom 250",
+    "externalId": "6aebb3398d12f750b316e110-skylawn",
+    "type": "event",
+    "startDate": 1794006000000,
+    "endDate": 1794178800000,
+    "showDate": 1793944800000,
+    "location": "skylawn",
+    "description": "Join us for a full weekend of activities dedicated to sharing the stories of America's veterans. ",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6aebc418885ee9caa6671c57_Screenshot%202026-11-04%20154526.jpg"
+  },
+  {
     "name": "Pink Floyd Tribute Band Rooftop Concert ",
     "externalId": "66abe0a90447f50739207dff",
     "type": "event",
@@ -41,6 +74,16 @@
     "location": "outpost",
     "description": "We welcome back Pigs on The Wall, the tribute to the legendary British psychedelic group, Pink Floyd at Outpost! Drink, dance & rock out to all your favorite songs with amazing downtown skyline views. ‍",
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/67571ecd5fa4b158a2562578_13662101_587316881429657_1581324489918700662_o.webp"
+  },
+  {
+    "name": "Coffee and Cars",
+    "externalId": "6a39498dca443063103bcee4",
+    "type": "event",
+    "startDate": 1794063600000,
+    "endDate": 1794070800000,
+    "showDate": 1794031200000,
+    "description": "Come out and enjoy an amazing display of machines at POST!",
+    "imageKey": "https://uploads-ssl.webflow.com/60754790876509970970cb53/629e7fa03c908d01d15b1f65_DJI_0179-1200w.jpg"
   },
   {
     "name": "Sabaton: Legends on Tour",
