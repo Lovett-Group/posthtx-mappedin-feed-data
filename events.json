@@ -1,26 +1,5 @@
 [
   {
-    "name": "Free Zumba Class - Thursday",
-    "externalId": "66abe0a90447f50739207bf0",
-    "type": "event",
-    "startDate": 1793925000000,
-    "endDate": 1793928600000,
-    "showDate": 1793858400000,
-    "location": "x-atrium",
-    "description": "POST is hosting Free Zumba Classes every 1st Thursday! Zumba is a fun class that involves cardio and Latin dance.",
-    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f507392082f3_297A6045-%20Small.jpg"
-  },
-  {
-    "name": "Arcángel - La 8va Maravilla World Tour",
-    "externalId": "6a190627ab050679107f06f5",
-    "type": "event",
-    "startDate": 1793930400000,
-    "endDate": 1793944799999,
-    "showDate": 1793858400000,
-    "location": "713-music-hall",
-    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a190603b54a2891af52b5cd_QQ%E6%88%AA%E5%9B%BE20260528221958.jpg"
-  },
-  {
     "name": "SoleTies Shakeout Run",
     "externalId": "6ad0b0687baedeb426441f00",
     "type": "event",
@@ -224,5 +203,27 @@
     "location": "lawn",
     "description": "Come by POST for Movie Night on the Lawn! For this edition on our rooftop park, Skylawn, we'll be showing 'Addams Family Values.'",
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/68c207527a1d7dbabd5963d6_d4cca24f-ec95-4044-a2bd-835e4f00784d.sized-1000x1000.webp"
+  },
+  {
+    "name": "POST Wine Series: Goosecross",
+    "externalId": "6ad85ba7b1fee9b7124d6be9",
+    "type": "event",
+    "startDate": 1794614400000,
+    "endDate": 1794621600000,
+    "showDate": 1794549600000,
+    "location": "penthouse",
+    "description": "Join us for the launch of our wine series at POST Houston with an evening of Goosecross wines, light bites, and good company.",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6ad85ada99a036eb4701f461_goosecross.jpg"
+  },
+  {
+    "name": "DJ Night — Riordan [Official Breakaway Afterparty]",
+    "externalId": "6ad1477dd2c4d78344fd868b",
+    "type": "event",
+    "startDate": 1794628800000,
+    "endDate": 1794646800000,
+    "showDate": 1794549600000,
+    "location": "art-club",
+    "description": "Innerloop & Breakaway Fest are proud to present Riordan for the official Breakaway Houston Festival Afterparty",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6ad14792af72f52ed0e140c1_id_385_d2c0aa28-a827-4d12-1234567865d-bf8dab3f68de.webp"
   }
 ]
