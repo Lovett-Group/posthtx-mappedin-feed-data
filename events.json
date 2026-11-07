@@ -1,16 +1,5 @@
 [
   {
-    "name": "SoleTies Shakeout Run",
-    "externalId": "6ad0b0687baedeb426441f00",
-    "type": "event",
-    "startDate": 1793977200000,
-    "endDate": 1793984400000,
-    "showDate": 1793944800000,
-    "location": "barbara-jordan-plaza",
-    "description": "Join us for a fun run and social gathering - let's lace up our sneakers and make some new friends!",
-    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6ad0b0217828e30c2941a4e4_Soleties2.jpg"
-  },
-  {
     "name": "Voices of Freedom 250",
     "externalId": "6aebb3398d12f750b316e110-the-office",
     "type": "event",
@@ -42,17 +31,6 @@
     "location": "skylawn",
     "description": "Join us for a full weekend of activities dedicated to sharing the stories of America's veterans. ",
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6aebc418885ee9caa6671c57_Screenshot%202026-11-04%20154526.jpg"
-  },
-  {
-    "name": "Pink Floyd Tribute Band Rooftop Concert ",
-    "externalId": "66abe0a90447f50739207dff",
-    "type": "event",
-    "startDate": 1794016800000,
-    "endDate": 1794024000000,
-    "showDate": 1793944800000,
-    "location": "outpost",
-    "description": "We welcome back Pigs on The Wall, the tribute to the legendary British psychedelic group, Pink Floyd at Outpost! Drink, dance & rock out to all your favorite songs with amazing downtown skyline views. ‍",
-    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/67571ecd5fa4b158a2562578_13662101_587316881429657_1581324489918700662_o.webp"
   },
   {
     "name": "Coffee and Cars",
@@ -225,5 +203,71 @@
     "location": "art-club",
     "description": "Innerloop & Breakaway Fest are proud to present Riordan for the official Breakaway Houston Festival Afterparty",
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6ad14792af72f52ed0e140c1_id_385_d2c0aa28-a827-4d12-1234567865d-bf8dab3f68de.webp"
+  },
+  {
+    "name": "Breakaway Houston Run Club & Wellness Kickback",
+    "externalId": "6aebb98b8d04d86c8ac9d6ab-barbara-jordan-plaza",
+    "type": "event",
+    "startDate": 1794668400000,
+    "endDate": 1794677400000,
+    "showDate": 1794636000000,
+    "location": "barbara-jordan-plaza",
+    "description": "Join us for a Breakaway Houston Run Club & Wellness Kickback 2026 presented by Celsius!",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6aecc38fcf886074ace7e2aa_RUNCLUB-2.jpg"
+  },
+  {
+    "name": "Breakaway Houston Run Club & Wellness Kickback",
+    "externalId": "6aebb98b8d04d86c8ac9d6ab-skylawn",
+    "type": "event",
+    "startDate": 1794668400000,
+    "endDate": 1794677400000,
+    "showDate": 1794636000000,
+    "location": "skylawn",
+    "description": "Join us for a Breakaway Houston Run Club & Wellness Kickback 2026 presented by Celsius!",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6aecc38fcf886074ace7e2aa_RUNCLUB-2.jpg"
+  },
+  {
+    "name": "Markets for Makers",
+    "externalId": "6ae3a3650bbf544ddd0cd4fc",
+    "type": "event",
+    "startDate": 1794675600000,
+    "endDate": 1794783600000,
+    "showDate": 1794636000000,
+    "location": "the-office",
+    "description": "Shop from over 100 makers, visit an exclusive DIY station, and fill your free tote with goodies throughout the event!",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6ae3a234956c2162e8984ede_web%20use%202.jpg"
+  },
+  {
+    "name": "BARC Adoption Day",
+    "externalId": "69b67433d3505af04aae2427",
+    "type": "event",
+    "startDate": 1794675600000,
+    "endDate": 1794690000000,
+    "showDate": 1794636000000,
+    "location": "x-atrium",
+    "description": "Come visit BARC Animal Shelter & Adoptions for an adorable adoption event in our X Atrium! ",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/68388883a4ed16c6ff7c043d_barc-adoption-day%20(1).webp"
+  },
+  {
+    "name": "Karaoke Night: Saturday Mic Fever",
+    "externalId": "682e5f15eeeb18d6094bde5d",
+    "type": "event",
+    "startDate": 1794704400000,
+    "endDate": 1794715200000,
+    "showDate": 1794636000000,
+    "location": "the-docks",
+    "description": "Sing your heart out at a special Saturday night edition of Karaoke Night on the Docks! ",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/683766e324e89ebd1cbba0c0_20250528_SNF_WEBSITE%20(edit).webp"
+  },
+  {
+    "name": "DJ Night — Skream [OPEN TO CLOSE]",
+    "externalId": "6ae22f42b7c9531346f9feee",
+    "type": "event",
+    "startDate": 1794715200000,
+    "endDate": 1794733200000,
+    "showDate": 1794636000000,
+    "location": "art-club",
+    "description": "GULP! presents Skream for a rare Open-to-Close set.",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a61127b8c9651764932bc4c_Club-97_web.jpg"
   }
 ]
