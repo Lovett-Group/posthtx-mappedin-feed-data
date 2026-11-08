@@ -33,37 +33,6 @@
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6aebc418885ee9caa6671c57_Screenshot%202026-11-04%20154526.jpg"
   },
   {
-    "name": "Coffee and Cars",
-    "externalId": "6a39498dca443063103bcee4",
-    "type": "event",
-    "startDate": 1794063600000,
-    "endDate": 1794070800000,
-    "showDate": 1794031200000,
-    "description": "Come out and enjoy an amazing display of machines at POST!",
-    "imageKey": "https://uploads-ssl.webflow.com/60754790876509970970cb53/629e7fa03c908d01d15b1f65_DJI_0179-1200w.jpg"
-  },
-  {
-    "name": "Sabaton: Legends on Tour",
-    "externalId": "68db67c48a385b3640790af9",
-    "type": "event",
-    "startDate": 1794099600000,
-    "endDate": 1794117599999,
-    "showDate": 1794031200000,
-    "location": "713-music-hall",
-    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/68db67b3dee6da9dfc748e8d_faa2c053-7247-49f9-9cd2-9dd6512986af_TABLET_LANDSCAPE_LARGE_16_9.webp"
-  },
-  {
-    "name": "Movie Night on the Lawn: Addams Family",
-    "externalId": "6abaa1879bd860b4688454f2",
-    "type": "event",
-    "startDate": 1794103200000,
-    "endDate": 1794110400000,
-    "showDate": 1794031200000,
-    "location": "lawn",
-    "description": "Come by POST for Movie Night on the Lawn! For this edition on our rooftop park, Skylawn, we'll be showing 'Addams Family.'",
-    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6abaa1805f4f445e698d7288_Addams_Family_FI.png"
-  },
-  {
     "name": "DJ Night — Johnny Chay",
     "externalId": "6ad10400ceeaa7e71e225fe6",
     "type": "event",
@@ -127,6 +96,17 @@
     "showDate": 1794117600000,
     "location": "713-music-hall",
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a6ffa0de209f3b2a91fcd25_96089d0b-9307-4b91-8024-b81b60bf78ca_TABLET_LANDSCAPE_LARGE_16_9.webp"
+  },
+  {
+    "name": "Trivia Tuesday:  Harry Potter",
+    "externalId": "6af040d9fbf8cbb8cb757965",
+    "type": "event",
+    "startDate": 1794355200000,
+    "endDate": 1794362400000,
+    "showDate": 1794290400000,
+    "location": "post-market",
+    "description": "Join us every Tuesday evening at POST Market for Trivia Tuesdays. Test your knowledge across a wide range of topics, from pop culture and movies to history and sports.",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66c8a8f367c7e7fef3b5f6de_1.Trivia%20Night%20-%20Web.webp"
   },
   {
     "name": "Houston Music Festival and POST present Elijah Fox: Ambient City",
@@ -269,5 +249,15 @@
     "location": "art-club",
     "description": "GULP! presents Skream for a rare Open-to-Close set.",
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a61127b8c9651764932bc4c_Club-97_web.jpg"
+  },
+  {
+    "name": "El Tri",
+    "externalId": "6a06ddd7ad91883393b08b37",
+    "type": "event",
+    "startDate": 1794794400000,
+    "endDate": 1794808799999,
+    "showDate": 1794722400000,
+    "location": "713-music-hall",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a06ddce5c7a7cb457e8132b_0f443b67-a406-4ec4-ab4d-ca459588f979_TABLET_LANDSCAPE_LARGE_16_9.webp"
   }
 ]
