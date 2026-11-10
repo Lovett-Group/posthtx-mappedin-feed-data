@@ -2403,17 +2403,6 @@
     }
   },
   {
-    "name": "X Atrium South",
-    "externalId": "ste-2650",
-    "type": "Space",
-    "polygons": [
-      "X201"
-    ],
-    "categories": [
-      "destinations"
-    ]
-  },
-  {
     "name": "Redfin",
     "externalId": "tenant-redfin",
     "type": "Tenant",
@@ -2474,18 +2463,6 @@
     "categories": [
       "destinations"
     ]
-  },
-  {
-    "name": "East Wing",
-    "externalId": "east-wing",
-    "type": "Space",
-    "polygons": [
-      "EW1936"
-    ],
-    "categories": [
-      "destinations"
-    ],
-    "description": "In planning"
   },
   {
     "name": "El Tiempo Cantina",
