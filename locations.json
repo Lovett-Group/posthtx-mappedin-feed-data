@@ -3,8 +3,17 @@
     "name": "Skylawn",
     "externalId": "skylawn",
     "type": "Space",
-    "polygons": [
-      "R305"
+    "polygons": [],
+    "nodes": [
+      "NODE-R305-01",
+      "NODE-R305-02",
+      "NODE-R305-03",
+      "NODE-R305-04",
+      "NODE-R305-05",
+      "NODE-R305-06",
+      "NODE-R305-07",
+      "NODE-R305-08",
+      "NODE-R305-09"
     ],
     "categories": [
       "destinations"
@@ -20,8 +29,9 @@
     "name": "Z Atrium Level 2",
     "externalId": "z-atrium-level-2",
     "type": "Space",
-    "polygons": [
-      "Z210"
+    "polygons": [],
+    "nodes": [
+      "NODE-Z210"
     ],
     "categories": [
       "destinations"
@@ -2585,8 +2595,9 @@
     "name": "Z Lobby",
     "externalId": "z-lobby",
     "type": "Space",
-    "polygons": [
-      "Z118"
+    "polygons": [],
+    "nodes": [
+      "NODE-Z118"
     ],
     "categories": [
       "destinations"
@@ -2773,8 +2784,9 @@
     "name": "Barbara Jordan Plaza",
     "externalId": "barbara-jordan-plaza",
     "type": "Space",
-    "polygons": [
-      "PL101"
+    "polygons": [],
+    "nodes": [
+      "NODE-PL101"
     ],
     "categories": [
       "destinations"
@@ -2824,8 +2836,9 @@
     "name": "The Docks",
     "externalId": "the-docks",
     "type": "Space",
-    "polygons": [
-      "D101"
+    "polygons": [],
+    "nodes": [
+      "NODE-D101"
     ],
     "categories": [
       "destinations"
@@ -2899,8 +2912,9 @@
     "name": "X Atrium",
     "externalId": "x-atrium",
     "type": "Space",
-    "polygons": [
-      "X100"
+    "polygons": [],
+    "nodes": [
+      "NODE-X100"
     ],
     "categories": [
       "destinations"
@@ -3085,8 +3099,9 @@
     "name": "Z Atrium",
     "externalId": "z-atrium",
     "type": "Space",
-    "polygons": [
-      "Z100"
+    "polygons": [],
+    "nodes": [
+      "NODE-Z100"
     ],
     "categories": [
       "destinations"
@@ -3101,8 +3116,9 @@
     "name": "POST Market",
     "externalId": "post-market",
     "type": "Space",
-    "polygons": [
-      "O100"
+    "polygons": [],
+    "nodes": [
+      "NODE-O100"
     ],
     "categories": [
       "eat",
