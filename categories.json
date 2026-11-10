@@ -12,31 +12,22 @@
     "externalId": "work"
   },
   {
-    "name": "Event Spaces",
-    "externalId": "event-spaces"
+    "name": "Destinations",
+    "externalId": "destinations"
   },
   {
-    "name": "Venues",
-    "externalId": "venues",
+    "name": "Coworking",
+    "externalId": "coworking",
     "parents": [
-      "event-spaces"
+      "work"
     ]
   },
   {
-    "name": "Parking",
-    "externalId": "parking"
-  },
-  {
-    "name": "Culture",
-    "externalId": "culture"
-  },
-  {
-    "name": "Amenities",
-    "externalId": "amenities"
-  },
-  {
-    "name": "Events",
-    "externalId": "events"
+    "name": "Offices",
+    "externalId": "offices",
+    "parents": [
+      "work"
+    ]
   },
   {
     "name": "Meat Lover",
@@ -93,5 +84,9 @@
     "parents": [
       "eat"
     ]
+  },
+  {
+    "name": "Parking",
+    "externalId": "parking"
   }
 ]

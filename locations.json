@@ -2,47 +2,48 @@
   {
     "name": "Skylawn",
     "externalId": "skylawn",
-    "type": "space",
+    "type": "Space",
     "polygons": [
       "R305"
     ],
-    "description": "Public space for everyone"
+    "categories": [
+      "destinations"
+    ],
+    "description": "Public space for everyone",
+    "tags": [
+      "Event",
+      "skylawn",
+      "rooftop"
+    ]
   },
   {
     "name": "Z Atrium Level 2",
     "externalId": "z-atrium-level-2",
-    "type": "space",
+    "type": "Space",
     "polygons": [
       "Z210"
     ],
     "categories": [
-      "event-spaces"
+      "destinations"
     ],
     "parent": "z-atrium"
   },
   {
     "name": "Lovejoy Bar",
     "externalId": "tenant-lovejoy-bar",
-    "type": "tenant",
+    "type": "Tenant",
     "polygons": [
       "Z101"
     ],
     "categories": [
-      "eat"
-    ]
-  },
-  {
-    "name": "POST Security",
-    "externalId": "post-security",
-    "type": "space",
-    "polygons": [
-      "Z103"
+      "eat",
+      "eat-cheers"
     ]
   },
   {
     "name": "Art Club Store",
     "externalId": "tenant-art-club-store",
-    "type": "tenant",
+    "type": "Tenant",
     "polygons": [
       "X103B"
     ],
@@ -51,7 +52,7 @@
     ],
     "parent": "art-club",
     "description": "Art Club’s store lives where art, design, and tech collide—stacked with looks and home goods that channel the club’s energy and level up your everyday. Visit us at POST or browse our collection in our new online shop!",
-    "detailsUrl": "https://www.posthtx.com/tenants/art-club-store",
+    "detailsUrl": "https://www.posthtx.com/tenants/art-club-store?utm_source=mappedin&utm_medium=map&utm_campaign=directory",
     "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6aeb8a46d2c20cca0cbe6c2d_PrimaryLogo_AC_Store.svg",
     "headerImage": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6aea45e38474f65da504cb36_6a15c3b7f99fbca953db7cc6_acs_set1_01152026%2520(1%2520of%252030)_web200w.webp",
     "social": {
@@ -99,7 +100,7 @@
   {
     "name": "Rice Wok",
     "externalId": "tenant-rice-wok",
-    "type": "tenant",
+    "type": "Tenant",
     "polygons": [
       "O123"
     ],
@@ -108,7 +109,7 @@
       "eat-asian-kitchen"
     ],
     "description": "Rice Wok is your stop for fast Chinese comfort food, perfect for lunch, dinner, or takeout at POST.",
-    "detailsUrl": "https://www.posthtx.com/tenants/rice-wok",
+    "detailsUrl": "https://www.posthtx.com/tenants/rice-wok?utm_source=mappedin&utm_medium=map&utm_campaign=directory",
     "headerImage": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6982785ef18ab399e273745d_Rice%20Woke00003_web2000w.jpg",
     "tags": [
       "Asian",
@@ -152,7 +153,7 @@
   {
     "name": "Twisted Grilled Cheese",
     "externalId": "tenant-twisted-grilled-cheese",
-    "type": "tenant",
+    "type": "Tenant",
     "polygons": [
       "O120"
     ],
@@ -162,7 +163,7 @@
       "eat-sweet-treats"
     ],
     "description": "Twisted Grilled Cheese is a cutting edge haven for all things cheese. With a home base in diverse Houston, TX, we are committed to providing an array of high-quality ingredients in a welcoming environment that makes customers delighted to experience comfort food with a twist.",
-    "detailsUrl": "https://www.posthtx.com/tenants/twisted-grilled-cheese",
+    "detailsUrl": "https://www.posthtx.com/tenants/twisted-grilled-cheese?utm_source=mappedin&utm_medium=map&utm_campaign=directory",
     "telephone": "(713) 775-0092",
     "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f507392082fa_twistedgrilledcheese_LOGO.webp",
     "headerImage": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f507392082fb_Directory_Main.webp",
@@ -231,7 +232,7 @@
   {
     "name": "Thai Kun",
     "externalId": "tenant-thai-kun",
-    "type": "tenant",
+    "type": "Tenant",
     "polygons": [
       "O119"
     ],
@@ -240,7 +241,7 @@
       "eat-asian-kitchen"
     ],
     "description": "Named one of Bon Appetit’s Best New Restaurants in America in 2014, Thai Kun serves authentic Thai street food and includes vegan and gluten free menu options. Dishes you’d expect to see from the talented Thai Kun cred include: Pad Thai, Crab Rice, Black Noodles, Som Tum and Khao Man Gai.",
-    "detailsUrl": "https://www.posthtx.com/tenants/thai-kun",
+    "detailsUrl": "https://www.posthtx.com/tenants/thai-kun?utm_source=mappedin&utm_medium=map&utm_campaign=directory",
     "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f5073920804b_Logo.webp",
     "headerImage": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f507392083db_TK1-2400w.jpg",
     "tags": [
@@ -308,7 +309,7 @@
   {
     "name": "Yoyo's Hot Dog",
     "externalId": "tenant-yoyos-hot-dog",
-    "type": "tenant",
+    "type": "Tenant",
     "polygons": [
       "O118"
     ],
@@ -319,7 +320,7 @@
       "eat-meat-lover"
     ],
     "description": "Originating out of Houston, Texas. Yoyo’s Hotdogs isn’t just about selling hot dogs, we're about making a statement over the importance of small businesses and hand crafted experiences throughout your city. Initially, we had wanted to create a product that was universally cherished but ultimately misunderstood, and we wanted to put a spin on it to make it our own. Ergo the beloved hotdog — and because Yoyo himself only eats beef, they’re 100% all-beef hotdogs! The family owned and operated food cart was established in 2010, serving the local community in Fox Hollow, and then later moving itself to Rice Village, then onto East Downtown and now the POST. With plans of growing outward as we continue on this journey together. After spending a decade researching and refining the perfect composition of an unforgettable hotdog, we’ve nailed down the quality. Gauging on how people look up to, respect, and admire what we’ve built satisfies that sense of community. And our decision to only ever serve ONE menu item; because we believe in it that passionately, grants us the level of simplicity we were pursuing. At the end of the day, we love interacting with our customers, and each new member of the community feels like family … but Yoyo’s will always be Houston’s Original!",
-    "detailsUrl": "https://www.posthtx.com/tenants/yoyos-hot-dog",
+    "detailsUrl": "https://www.posthtx.com/tenants/yoyos-hot-dog?utm_source=mappedin&utm_medium=map&utm_campaign=directory",
     "telephone": "832-622-8829",
     "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f50739208409_Yoyos%20Logo.webp",
     "headerImage": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f5073920840c_Yoyos%20Hot%20Dog01-2400w.webp",
@@ -369,7 +370,7 @@
   {
     "name": "Hot Tater Diner",
     "externalId": "tenant-hot-tater-diner",
-    "type": "tenant",
+    "type": "Tenant",
     "polygons": [
       "O116"
     ],
@@ -379,7 +380,7 @@
       "eat-meat-lover"
     ],
     "description": "Hot Tater Diner is a family-owned and operated Diner concept created by the Boyd Family, serving up Houston’s best gourmet baked potatoes , breakfast, comfort-food favorites and Popcorn. Built on family values, community, and a passion for great food, Hot Tater Diner combines creativity with tradition to deliver loaded potatoes and signature toppings that showcase bold flavors and hearty portions. Owned and operated by the Boyds, Hot Tater Diner reflects their dedication to hospitality and innovation in the food industry. Every dish is crafted with care, bringing people together around fresh ingredients and one-of-a-kind recipes. From classic comfort combinations to unique, chef-inspired creations, Hot Tater Diner is where families, friends, and food lovers gather to enjoy “the best baked potato, breakfast and comfort food in H-Town.",
-    "detailsUrl": "https://www.posthtx.com/tenants/hot-tater",
+    "detailsUrl": "https://www.posthtx.com/tenants/hot-tater?utm_source=mappedin&utm_medium=map&utm_campaign=directory",
     "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/69e8dc1db2bd1985d7cc644c_hot_tater_transparent.jpeg",
     "headerImage": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/692db389233fa935eab1f5db_00HP_web2000w.webp",
     "tags": [
@@ -453,7 +454,7 @@
   {
     "name": "Lea Jane's Hot Chicken",
     "externalId": "tenant-lea-janes-hot-chicken",
-    "type": "tenant",
+    "type": "Tenant",
     "polygons": [
       "O115"
     ],
@@ -463,7 +464,7 @@
       "eat-meat-lover"
     ],
     "description": "Lovingly named after founder Johnny Hoang’s wife, Lea Jane’s Hot Chicken is inspired by fond childhood memories born from a family cross-country road trip. Our menu is reminiscent of sunny afternoon roadside picnics filled with love, laughter, and delicious fried chicken.",
-    "detailsUrl": "https://www.posthtx.com/tenants/lea-janes-hot-chicken",
+    "detailsUrl": "https://www.posthtx.com/tenants/lea-janes-hot-chicken?utm_source=mappedin&utm_medium=map&utm_campaign=directory",
     "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f50739207e22_97647f50f5014ab3ae02529aa9e0c287.webp",
     "headerImage": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f50739208374_LeaJanes_Expanded_Cover-2400w.webp",
     "tags": [
@@ -520,7 +521,7 @@
   {
     "name": "2 Phat Bastard Pies",
     "externalId": "tenant-2-phat-bastard-pies",
-    "type": "tenant",
+    "type": "Tenant",
     "polygons": [
       "O114"
     ],
@@ -530,7 +531,7 @@
       "eat-meat-lover"
     ],
     "description": "2 Phat Bastard Pies aims to introduce the vibrant flavors of the Indo-African cuisine to the Houston market through specialty savory pies. Our pie crust is fresh-baked to a buttery golden crisp and filled with hearty, crave-worthy fillings crafted to perfection from age-old secret family recipes!",
-    "detailsUrl": "https://www.posthtx.com/tenants/2-phat-bastard-pies",
+    "detailsUrl": "https://www.posthtx.com/tenants/2-phat-bastard-pies?utm_source=mappedin&utm_medium=map&utm_campaign=directory",
     "telephone": "(281) 630-6495",
     "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/67a2660efaa6519130fd1d86_Logo%40600x.webp",
     "headerImage": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/686eef6396ef1a4a79669c43_Pies3501.webp",
@@ -592,7 +593,7 @@
   {
     "name": "Taco Fuego",
     "externalId": "tenant-taco-fuego",
-    "type": "tenant",
+    "type": "Tenant",
     "polygons": [
       "O113"
     ],
@@ -602,7 +603,7 @@
       "eat-meat-lover"
     ],
     "description": "Halal Gourmet style taco shop. Clean and sharp with an enhanced Latin fusion concept complimented by warm elements such as greenery, and premium meats. Semi-open kitchen concept featuring our culinary team at work with fresh ingredients and delicious meat options.",
-    "detailsUrl": "https://www.posthtx.com/tenants/taco-fuego",
+    "detailsUrl": "https://www.posthtx.com/tenants/taco-fuego?utm_source=mappedin&utm_medium=map&utm_campaign=directory",
     "telephone": "(346) 404-6786",
     "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f50739207e8a_bce76d265d394990931f9f9f06da8898.webp",
     "headerImage": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f50739207de0_67d4dbc612fc4963b3646b0298143cfb.webp",
@@ -672,7 +673,7 @@
   {
     "name": "Phở Lạc Việt",
     "externalId": "tenant-pho-lac-viet",
-    "type": "tenant",
+    "type": "Tenant",
     "polygons": [
       "O112"
     ],
@@ -683,7 +684,7 @@
       "eat-meat-lover"
     ],
     "description": "The unwavering dedication of this husband and wife duo transform simple, quality ingredients into extraordinary experiences that honor their roots and push culinary boundaries. Their commitment to excellence and passion for sharing good food is reflected in every bowl, every dish, and every moment they create for their community. Together, they build a family-inspired venture driven by friendship, resilience, and a love for quality, authentic food.",
-    "detailsUrl": "https://www.posthtx.com/tenants/pho-lac-viet",
+    "detailsUrl": "https://www.posthtx.com/tenants/pho-lac-viet?utm_source=mappedin&utm_medium=map&utm_campaign=directory",
     "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6900eb3d9ec9242bf0e4a7bc_logo.webp",
     "headerImage": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6900eb0a46010931c169e0b9_1_web2000w.webp",
     "tags": [
@@ -735,7 +736,7 @@
   {
     "name": "Foreign Grill",
     "externalId": "tenant-foreign-grill",
-    "type": "tenant",
+    "type": "Tenant",
     "polygons": [
       "O111"
     ],
@@ -744,7 +745,7 @@
       "eat-meat-lover"
     ],
     "description": "Foreign Grill is a family-owned restaurant offering a globally inspired menu rooted in tradition. From savory skewers and fresh international salads to hearty Uzbek plov and classic European dumplings, every dish reflects generations of home-cooked recipes. With a focus on quality ingredients and bold, comforting flavors, Foreign Grill brings a taste of the world to every plate.",
-    "detailsUrl": "https://www.posthtx.com/tenants/foreign-grill",
+    "detailsUrl": "https://www.posthtx.com/tenants/foreign-grill?utm_source=mappedin&utm_medium=map&utm_campaign=directory",
     "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6838bcc00771017118b9b3c0_logo.avif",
     "headerImage": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6838beea353fd557c5535501_2aa174ee-72ed-4b3e-b2aa-8ca2bf6ad44b_web.webp",
     "tags": [
@@ -805,7 +806,7 @@
   {
     "name": "Mamma Tomato Pizza",
     "externalId": "tenant-mamma-tomato-pizza",
-    "type": "tenant",
+    "type": "Tenant",
     "polygons": [
       "O110"
     ],
@@ -815,7 +816,7 @@
       "eat-meat-lover"
     ],
     "description": "Fresh stone baked, authentic New York style pizza by the slice",
-    "detailsUrl": "https://www.posthtx.com/tenants/mamma-tomato-pizza",
+    "detailsUrl": "https://www.posthtx.com/tenants/mamma-tomato-pizza?utm_source=mappedin&utm_medium=map&utm_campaign=directory",
     "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6852dc6cc3427cd8c525c6c3_logo1.png",
     "headerImage": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6852dc6a40aea4b9368cc8f6_Capture.webp",
     "tags": [
@@ -875,7 +876,7 @@
   {
     "name": "Andes Cafe",
     "externalId": "tenant-andes-cafe",
-    "type": "tenant",
+    "type": "Tenant",
     "polygons": [
       "O109"
     ],
@@ -886,7 +887,7 @@
       "eat-meat-lover"
     ],
     "description": "Andes Cafe is named for La Cordillera de los Andes, the world’s longest mountain range that links together 7 South American countries stretching from Venezuela to Argentina. We serve authentic flavors from each of these seven regional cuisines in a comfortable but refined setting. A perennial feature in famed Houston food critic Allison Cook’s Top 100, Andes reopens at POST with invigorated brunch and dinner menus that will sate Houston’s craving for ceviche, Lomo Saltado and other South American favorites.",
-    "detailsUrl": "https://www.posthtx.com/tenants/andes-cafe",
+    "detailsUrl": "https://www.posthtx.com/tenants/andes-cafe?utm_source=mappedin&utm_medium=map&utm_campaign=directory",
     "telephone": "(832) 252-6870",
     "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f50739207f14_Logo_Color.webp",
     "headerImage": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f50739207f2d_Photo_Primary.webp",
@@ -956,7 +957,7 @@
   {
     "name": "The Funnel Cake House & Cajun Corner",
     "externalId": "tenant-cajun-corner-the-funnel-cake-house",
-    "type": "tenant",
+    "type": "Tenant",
     "polygons": [
       "O108"
     ],
@@ -966,7 +967,7 @@
       "eat-sweet-treats"
     ],
     "description": "The Funnel Cake House & Cajun Corner blend comfort, culture, and creativity at POST Houston. Rooted in tradition and driven by innovation, we serve fresh, made-to-order favorites with premium ingredients—creating a welcoming, memorable experience for locals, tourists and food lovers alike.",
-    "detailsUrl": "https://www.posthtx.com/tenants/funnel-cake-house-cajun-corner",
+    "detailsUrl": "https://www.posthtx.com/tenants/funnel-cake-house-cajun-corner?utm_source=mappedin&utm_medium=map&utm_campaign=directory",
     "headerImage": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6965304d37f9203b5e1bbc0e_C1_web2000w.jpg",
     "tags": [
       "Cajun",
@@ -1015,7 +1016,7 @@
   {
     "name": "Ciccio’s Pasta",
     "externalId": "tenant-ciccios-pasta",
-    "type": "tenant",
+    "type": "Tenant",
     "polygons": [
       "O107"
     ],
@@ -1025,7 +1026,7 @@
       "eat-sweet-treats"
     ],
     "description": "Ciccio's Pasta specializes in Italian food featuring fresh ingredients and masterful preparation by Chef Joel Fernandez and his team. Come dine with us and experience an authentic Italian meal. We look forward to serving you!",
-    "detailsUrl": "https://www.posthtx.com/tenants/ciccios-pasta",
+    "detailsUrl": "https://www.posthtx.com/tenants/ciccios-pasta?utm_source=mappedin&utm_medium=map&utm_campaign=directory",
     "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f5073920829c_CicciosPasta-logo.webp",
     "headerImage": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f5073920829f_CicciosPasta-2.webp",
     "tags": [
@@ -1090,7 +1091,7 @@
   {
     "name": "Nikubol",
     "externalId": "tenant-nikubol",
-    "type": "tenant",
+    "type": "Tenant",
     "polygons": [
       "O106"
     ],
@@ -1100,7 +1101,7 @@
       "eat-meat-lover"
     ],
     "description": "At Nikubol, every bowl starts with fire and ends with your choice. Pick your base — rice or salad — then watch as your chicken, beef, pork, eel, or mushroom is freshly grilled over open flame. We keep it clean, bold, and honest: real smoke, real flavor, and a bowl built your way. Your Bowl. Your Way.",
-    "detailsUrl": "https://www.posthtx.com/tenants/nikubol",
+    "detailsUrl": "https://www.posthtx.com/tenants/nikubol?utm_source=mappedin&utm_medium=map&utm_campaign=directory",
     "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/68d710e448d5759897ea0027_Nikubol_Logo.webp",
     "headerImage": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/692db60167139cf7c195fcd4_cover_web2000w-.jpg",
     "tags": [
@@ -1155,7 +1156,7 @@
   {
     "name": "Johnny Good Burger",
     "externalId": "tenant-johnny-good-burger",
-    "type": "tenant",
+    "type": "Tenant",
     "polygons": [
       "O104"
     ],
@@ -1165,7 +1166,7 @@
       "eat-meat-lover"
     ],
     "description": "Burger by the James Beard Award-winning chef Paul Qui along with business partner Johnny Hoang. The menu is kept simple with four burgers: The All American, The Double Double, The Frisco and The Beyond Mushroom Swiss, plus nostalgic American sides like Frito pies, fries and flavored shakes to wash it all down.",
-    "detailsUrl": "https://www.posthtx.com/tenants/johnny-good-burger",
+    "detailsUrl": "https://www.posthtx.com/tenants/johnny-good-burger?utm_source=mappedin&utm_medium=map&utm_campaign=directory",
     "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f5073920818e_Logo.webp",
     "headerImage": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f507392083f2_MyTexasJourney_Jhonny_Burger47-2400w.webp",
     "tags": [
@@ -1227,7 +1228,7 @@
   {
     "name": "Soy Pinoy",
     "externalId": "tenant-soy-pinoy",
-    "type": "tenant",
+    "type": "Tenant",
     "polygons": [
       "O103"
     ],
@@ -1237,7 +1238,7 @@
       "eat-meat-lover"
     ],
     "description": "Soy Pinoy (translated “I’m Filipino\") is expanding Philippine identity through food with an unforgettable menu lineup featuring kinilawin, Vegan Kare Kare, Fried Chicken Adobo, Chicken Inasal, Lechon and Lumpia.",
-    "detailsUrl": "https://www.posthtx.com/tenants/soy-pinoy",
+    "detailsUrl": "https://www.posthtx.com/tenants/soy-pinoy?utm_source=mappedin&utm_medium=map&utm_campaign=directory",
     "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f50739208091_Logo.webp",
     "headerImage": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f507392083ea_MyTexasJourney_SoyPinoy%20Nov%2079-2400w.jpg",
     "tags": [
@@ -1305,7 +1306,7 @@
   {
     "name": "ChòpnBlọk",
     "externalId": "tenant-chopnblok",
-    "type": "tenant",
+    "type": "Tenant",
     "polygons": [
       "O102"
     ],
@@ -1315,7 +1316,7 @@
       "eat-healthy-energy"
     ],
     "description": "ChòpnBlọk is the cultural crossroads where local communities and West African culinary traditions intersect, delivering a convenient, hospitable food experience with exquisite taste. Our purpose is to share the beauty of West African culture through foods that reshape society’s daily routine.",
-    "detailsUrl": "https://www.posthtx.com/tenants/chopnblok",
+    "detailsUrl": "https://www.posthtx.com/tenants/chopnblok?utm_source=mappedin&utm_medium=map&utm_campaign=directory",
     "telephone": "2816315009",
     "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f50739207f8b_chopnblok_LOGO.webp",
     "headerImage": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f50739207fd5_Photo_Main.webp",
@@ -1377,7 +1378,7 @@
   {
     "name": "Bowl'd Masala",
     "externalId": "tenant-bowld-masala",
-    "type": "tenant",
+    "type": "Tenant",
     "polygons": [
       "O101"
     ],
@@ -1387,7 +1388,7 @@
       "eat-healthy-energy"
     ],
     "description": "FAST. FRESH. FLAVORFUL. That's BOWL'D Masala. From protein-packed bowls to crave-worthy rolls, we make Indian street food that fits your life.",
-    "detailsUrl": "https://www.posthtx.com/tenants/bowld-masala",
+    "detailsUrl": "https://www.posthtx.com/tenants/bowld-masala?utm_source=mappedin&utm_medium=map&utm_campaign=directory",
     "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/69d41b5ed1bfcfa46f609b7d_logo1.png",
     "headerImage": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/69d41b6b7bc81749bf40df45__original2.webp",
     "tags": [
@@ -1441,7 +1442,7 @@
   {
     "name": "Aris De Co Jewelry",
     "externalId": "tenant-aris-de-co",
-    "type": "tenant",
+    "type": "Tenant",
     "polygons": [
       "O124"
     ],
@@ -1449,8 +1450,12 @@
       "shop"
     ],
     "description": "Aris De Co was founded by a former couple who share both a daughter and a deep passion for jewelry design and entrepreneurship. To them, permanent jewelry represents strength and eternal life. Their mission: to create distinctive pieces as a family—and to share a piece of their love with everyone. They offer gold-filled, gold-plated, and stainless steel jewelry—all hypoallergenic, nickel-free, and lead-free. A charm bar is also available, with a wide selection of charms and chains that let individuals create unique statement pieces that reflect their personal style. Beyond jewelry, Aris De Co also offers stationery and gifts, including pens, stickers, iron-on patches, Jibbitz, and other fun, on-trend accessories. Their motto: “Together forever, unbreakable bond.” Forever Aris.",
-    "detailsUrl": "https://www.posthtx.com/tenants/aris-de-co-jewelry",
+    "detailsUrl": "https://www.posthtx.com/tenants/aris-de-co-jewelry?utm_source=mappedin&utm_medium=map&utm_campaign=directory",
     "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/67f546d967a0d2df37bbe7fc_logo.jpeg",
+    "tags": [
+      "Jewelry",
+      "Accessories"
+    ],
     "social": {
       "instagram": "https://www.instagram.com/aris_de_co_shop/",
       "website": "https://shoparisdeco.com/"
@@ -1482,7 +1487,7 @@
   {
     "name": "AYNA Jewels",
     "externalId": "tenant-ayna-jewels",
-    "type": "tenant",
+    "type": "Tenant",
     "polygons": [
       "O125"
     ],
@@ -1490,7 +1495,7 @@
       "shop"
     ],
     "description": "AYNA Jewels is a women-owned jewelry and beaded bag business that launched in 2021. We started AYNA Jewels to bring our sense of fashion and creativity to customers giving budget friendly options. We like to pride ourselves in catering high quality jewelry for women.",
-    "detailsUrl": "https://www.posthtx.com/tenants/ayna-jewels",
+    "detailsUrl": "https://www.posthtx.com/tenants/ayna-jewels?utm_source=mappedin&utm_medium=map&utm_campaign=directory",
     "headerImage": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6ae8f7c4f54d8cb186d52643_65f46ca0369f171a523926ec_Multicolor%2520Beaded%2520Web.jpeg",
     "social": {
       "instagram": "https://www.instagram.com/aynajewels",
@@ -1498,17 +1503,9 @@
     }
   },
   {
-    "name": "Info Desk",
-    "externalId": "ste-1325",
-    "type": "space",
-    "polygons": [
-      "O126"
-    ]
-  },
-  {
     "name": "Houston Skateboards",
     "externalId": "tenant-houston-skateboards",
-    "type": "tenant",
+    "type": "Tenant",
     "polygons": [
       "O127"
     ],
@@ -1516,9 +1513,12 @@
       "shop"
     ],
     "description": "Houston Skateboards is inspired by the skateboarding legacy of Houston, Texas and provides the highest quality products for our city's skateboarders.",
-    "detailsUrl": "https://www.posthtx.com/tenants/houston-skateboards",
+    "detailsUrl": "https://www.posthtx.com/tenants/houston-skateboards?utm_source=mappedin&utm_medium=map&utm_campaign=directory",
     "logoKey": "https://uploads-ssl.webflow.com/60754790876509970970cb53/63d7f32c8fb9c141832ec0b7_Logo-Skateboard.png",
     "headerImage": "https://uploads-ssl.webflow.com/60754790876509970970cb53/6568dee53f304b5340165a11_Houston%20Skateboard%2002-2400w.jpg",
+    "tags": [
+      "Retail"
+    ],
     "social": {
       "facebook": "https://www.facebook.com/HoustonSkateboards",
       "instagram": "https://www.instagram.com/houstonskateboards/",
@@ -1562,17 +1562,17 @@
   {
     "name": "The Paleta Bar",
     "externalId": "tenant-the-paleta-bar",
-    "type": "tenant",
+    "type": "Tenant",
     "polygons": [
       "O129"
     ],
     "categories": [
       "eat",
-      "eat-sweet-treats",
-      "eat-latin-flavor"
+      "eat-latin-flavor",
+      "eat-sweet-treats"
     ],
     "description": "The Paleta Bar serves gourmet paletas (ice pops), handmade daily from natural ingredients. These Mexican style paletas are a healthier portion than your typical popsicle. Choose a cream-based or water-based paleta. Eat it plain, or jazz it up a bit with dippings and toppings of your choice.",
-    "detailsUrl": "https://www.posthtx.com/tenants/the-paleta-bar",
+    "detailsUrl": "https://www.posthtx.com/tenants/the-paleta-bar?utm_source=mappedin&utm_medium=map&utm_campaign=directory",
     "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/68263c927971f05f9b0c7d2f_1000008036.png",
     "headerImage": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f507392083d3_P8-2400w.jpg",
     "tags": [
@@ -1626,7 +1626,7 @@
   {
     "name": "Thrive Juices",
     "externalId": "tenant-thrive-juice",
-    "type": "tenant",
+    "type": "Tenant",
     "polygons": [
       "O130"
     ],
@@ -1636,7 +1636,7 @@
       "eat-sweet-treats"
     ],
     "description": "Thrive Juices is the culmination of a necessity to address the neglected wellness of underserved communities and the desire for nutrient rich yet palatable juices, smoothies, and food that aid the HEART, MIND, BODY, and SOUL.",
-    "detailsUrl": "https://www.posthtx.com/tenants/thrive-juices",
+    "detailsUrl": "https://www.posthtx.com/tenants/thrive-juices?utm_source=mappedin&utm_medium=map&utm_campaign=directory",
     "telephone": "(346) 339-5554",
     "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f50739207ff9_thrive_logo.webp",
     "headerImage": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f5073920844b_Thrive-4-2400w.webp",
@@ -1703,7 +1703,7 @@
   {
     "name": "Return to Sender",
     "externalId": "tenant-return-to-sender",
-    "type": "tenant",
+    "type": "Tenant",
     "polygons": [
       "O132"
     ],
@@ -1712,7 +1712,7 @@
       "eat-cheers"
     ],
     "description": "bar",
-    "detailsUrl": "https://www.posthtx.com/tenants/return-to-sender",
+    "detailsUrl": "https://www.posthtx.com/tenants/return-to-sender?utm_source=mappedin&utm_medium=map&utm_campaign=directory",
     "headerImage": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/69652f2672c087476197448b_hero-main.jpg",
     "tags": [
       "Bar"
@@ -1749,7 +1749,7 @@
   {
     "name": "Ice Ice Boba",
     "externalId": "tenant-ice-ice-boba",
-    "type": "tenant",
+    "type": "Tenant",
     "polygons": [
       "O131"
     ],
@@ -1759,7 +1759,7 @@
       "eat-asian-kitchen"
     ],
     "description": "Boba, tea, and Taiwanese snowy ice with fresh organic milk and a variety of topping options.",
-    "detailsUrl": "https://www.posthtx.com/tenants/ice-ice-boba",
+    "detailsUrl": "https://www.posthtx.com/tenants/ice-ice-boba?utm_source=mappedin&utm_medium=map&utm_campaign=directory",
     "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f5073920819b_Logo_ColorBlack.webp",
     "headerImage": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f50739208370_BobaTea_25-2400w.webp",
     "tags": [
@@ -1811,7 +1811,7 @@
   {
     "name": "KWO Sushi",
     "externalId": "tenant-kwo-sushi",
-    "type": "tenant",
+    "type": "Tenant",
     "polygons": [
       "O134"
     ],
@@ -1821,7 +1821,7 @@
       "eat-healthy-energy"
     ],
     "description": "Konnichiwa, sushi lovers! Meet Kore Wa Oishidesu, or simply KWO Sushi, where tradition meets creativity. Enjoy fresh sushi rolls, vibrant bowls, bento boxes, and vegetarian delights.",
-    "detailsUrl": "https://www.posthtx.com/tenants/kwo-sushi",
+    "detailsUrl": "https://www.posthtx.com/tenants/kwo-sushi?utm_source=mappedin&utm_medium=map&utm_campaign=directory",
     "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/679177dfd2dc049fc445c233_KWO_Sushi_Logo.webp",
     "headerImage": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6791808bf3b6ae3145802401_KWO%20Sushi%2003_web.webp",
     "tags": [
@@ -1875,7 +1875,7 @@
   {
     "name": "Flower and Cream",
     "externalId": "tenant-flower-and-cream",
-    "type": "tenant",
+    "type": "Tenant",
     "polygons": [
       "O133"
     ],
@@ -1884,7 +1884,7 @@
       "eat-sweet-treats"
     ],
     "description": "Flower & Cream started churning premium artisan ice cream in Houston in 2019 with a mission to make delicious and unique flavors using locally sourced ingredients and delectable mix-ins made fresh daily.",
-    "detailsUrl": "https://www.posthtx.com/tenants/flower-and-cream",
+    "detailsUrl": "https://www.posthtx.com/tenants/flower-and-cream?utm_source=mappedin&utm_medium=map&utm_campaign=directory",
     "telephone": "(917) 749-5555",
     "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f50739208102_Logo_thicker.webp",
     "headerImage": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f5073920843c_Flower%26Cream0158-2400w-2.webp",
@@ -1947,17 +1947,17 @@
   {
     "name": "Myoa Cookies",
     "externalId": "tenant-myoa-cookies",
-    "type": "tenant",
+    "type": "Tenant",
     "polygons": [
       "O137"
     ],
     "categories": [
       "eat",
-      "eat-sweet-treats",
-      "eat-african-soul"
+      "eat-african-soul",
+      "eat-sweet-treats"
     ],
     "description": "Experience the luxury of cookie gifting",
-    "detailsUrl": "https://www.posthtx.com/tenants/myoa-cookies",
+    "detailsUrl": "https://www.posthtx.com/tenants/myoa-cookies?utm_source=mappedin&utm_medium=map&utm_campaign=directory",
     "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/67cf20626a9a279087857b5c_1740415359696_Myoa%20Coral%20Logo.webp",
     "headerImage": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/67cf208eaadd2b44de43ddc1_1740415359697_Myoa-May24-98%20(2)_web.webp",
     "tags": [
@@ -2019,7 +2019,7 @@
   {
     "name": "Elotex Cup",
     "externalId": "tenant-elotex-cup",
-    "type": "tenant",
+    "type": "Tenant",
     "polygons": [
       "O136"
     ],
@@ -2029,7 +2029,7 @@
       "eat-sweet-treats"
     ],
     "description": "Elotex is a snack business that specializes in Mexican street corn. We serve our corn in various ways, including with our authentic sauces made from scratch. Our sauces include Elotex mayo, buffalo chipotle, and chile. We also offer chips prepared with our corn and sauces, as well as a variety of other snacks. Our goal is to provide our customers with the best possible snacking experience. We strive to use only the freshest ingredients and to provide a wide variety of options so that everyone can find something they enjoy. Come visit us today and see for yourself why Elotex is the best place for snacks!",
-    "detailsUrl": "https://www.posthtx.com/tenants/elotex-cup",
+    "detailsUrl": "https://www.posthtx.com/tenants/elotex-cup?utm_source=mappedin&utm_medium=map&utm_campaign=directory",
     "telephone": "9562666913",
     "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f5073920824a_elotex%20logo.webp",
     "headerImage": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f5073920841c_Elotex%2002-2400w.webp",
@@ -2086,7 +2086,7 @@
   {
     "name": "Gelu Italian Ice",
     "externalId": "tenant-gelu-italian-ice",
-    "type": "tenant",
+    "type": "Tenant",
     "polygons": [
       "O135"
     ],
@@ -2095,7 +2095,7 @@
       "eat-sweet-treats"
     ],
     "description": "Authentic, homemade Italian Ice. With over 30 mouth watering flavors, GELU Italian Ice is dairy-free, gluten-free, fat-free and cholesterol-free with only the freshest ingredients. A healthier delicious alternative to ice cream, gelato, and even frozen yogurt!",
-    "detailsUrl": "https://www.posthtx.com/tenants/gelu-italian-ice",
+    "detailsUrl": "https://www.posthtx.com/tenants/gelu-italian-ice?utm_source=mappedin&utm_medium=map&utm_campaign=directory",
     "telephone": "(713) 208-8530",
     "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f50739207f11_316bd74c6bb545378c2b2a8deaa92e5c.webp",
     "headerImage": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f50739207f10_efdf217116d5456691c8963ff7d7c956.webp",
@@ -2145,7 +2145,7 @@
   {
     "name": "Address Unknown",
     "externalId": "tenant-address-unknown",
-    "type": "tenant",
+    "type": "Tenant",
     "polygons": [
       "O139"
     ],
@@ -2154,7 +2154,7 @@
       "eat-cheers"
     ],
     "description": "bar",
-    "detailsUrl": "https://www.posthtx.com/tenants/address-unknown",
+    "detailsUrl": "https://www.posthtx.com/tenants/address-unknown?utm_source=mappedin&utm_medium=map&utm_campaign=directory",
     "headerImage": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/69306785387df937499b0f8a_FoodHall00008_web2000w.webp",
     "tags": [
       "Bar"
@@ -2186,7 +2186,7 @@
   {
     "name": "Drip Haus Flowers",
     "externalId": "tenant-drip-haus-flowers",
-    "type": "tenant",
+    "type": "Tenant",
     "polygons": [
       "O140"
     ],
@@ -2194,8 +2194,11 @@
       "shop"
     ],
     "description": "High-quality hemp cosmetics, drinks and snacks formulated to add some much needed calm to your daily routine.",
-    "detailsUrl": "https://www.posthtx.com/tenants/drip-haus-flowers",
+    "detailsUrl": "https://www.posthtx.com/tenants/drip-haus-flowers?utm_source=mappedin&utm_medium=map&utm_campaign=directory",
     "headerImage": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/69caabffa1aa79af720d94ec_5603921627_web200w.jpg",
+    "tags": [
+      "Herbal Medicine"
+    ],
     "social": {
       "website": "https://driphausflowers.com/"
     },
@@ -2235,26 +2238,18 @@
     ]
   },
   {
-    "name": "POST Leasing & Management",
-    "externalId": "ste-1400",
-    "type": "space",
-    "polygons": [
-      "Z104"
-    ],
-    "description": "Authorized access only"
-  },
-  {
     "name": "Xecta",
     "externalId": "tenant-xecta",
-    "type": "tenant",
+    "type": "Tenant",
     "polygons": [
       "Z105"
     ],
     "categories": [
-      "work"
+      "work",
+      "offices"
     ],
     "description": "Founded in 2020, Xecta is an integrated technology solutions provider specializing in advanced AI/ML technology combined with domain expertise. Xecta offers digital engineering solutions in a user-friendly SaaS product, designed exclusively for the Energy Industry.",
-    "detailsUrl": "https://www.posthtx.com/tenants/xecta",
+    "detailsUrl": "https://www.posthtx.com/tenants/xecta?utm_source=mappedin&utm_medium=map&utm_campaign=directory",
     "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6ae8f7c8f54d8cb186d5274f_6601b80e3ef2c60ee6bb0046_Xecta_logo_BLK.png",
     "social": {
       "website": "https://xecta.com/"
@@ -2263,15 +2258,16 @@
   {
     "name": "Quantum Commodity Intelligence",
     "externalId": "tenant-quantum-commodity-intelligence",
-    "type": "tenant",
+    "type": "Tenant",
     "polygons": [
       "Z114"
     ],
     "categories": [
-      "work"
+      "work",
+      "offices"
     ],
     "description": "Quantum is an independent price reporting agency (PRA) providing price assessments, original news and trade data for the global energy transition markets. Their mission is to bring greater transparency to these rapidly developing markets, powering transactions and helping the world to decarbonize as efficiently as possible.",
-    "detailsUrl": "https://www.posthtx.com/tenants/quantum-commodity-intelligence",
+    "detailsUrl": "https://www.posthtx.com/tenants/quantum-commodity-intelligence?utm_source=mappedin&utm_medium=map&utm_campaign=directory",
     "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6758d36efc05d244087292a1_qci_logo_BLK.svg",
     "social": {
       "website": "https://www.qcintel.com/"
@@ -2280,7 +2276,7 @@
   {
     "name": "Pistachio's Coffee",
     "externalId": "tenant-pistachios-coffee",
-    "type": "tenant",
+    "type": "Tenant",
     "polygons": [
       "Z116"
     ],
@@ -2290,7 +2286,7 @@
       "eat-sweet-treats"
     ],
     "description": "We designed pistachio's to be more than a coffee shop—it's a destination for a moment of quiet indulgence. We are dedicated to the craft of coffee, from meticulously sourced beans to the final, perfect pour. It is our pleasure to provide a sophisticated space for our community to connect and recharge.",
-    "detailsUrl": "https://www.posthtx.com/tenants/pistachios-coffee",
+    "detailsUrl": "https://www.posthtx.com/tenants/pistachios-coffee?utm_source=mappedin&utm_medium=map&utm_campaign=directory",
     "headerImage": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/69827895fa7eae5957357d83_P00001_web2000w.jpg",
     "tags": [
       "Coffee"
@@ -2337,41 +2333,34 @@
   {
     "name": "Populous",
     "externalId": "tenant-populous",
-    "type": "tenant",
+    "type": "Tenant",
     "polygons": [
       "Z109"
     ],
     "categories": [
-      "work"
+      "work",
+      "offices"
     ],
     "description": "Populous is a global architecture and design firm with colleagues spanning four continents. Using a range of disciplines, we work with communities of all sizes to create experiences that amplify shared human moments.",
-    "detailsUrl": "https://www.posthtx.com/tenants/populous",
+    "detailsUrl": "https://www.posthtx.com/tenants/populous?utm_source=mappedin&utm_medium=map&utm_campaign=directory",
     "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f50739208470_Populous_logo_BLK.svg",
     "social": {
       "website": "https://populous.com/"
     }
   },
   {
-    "name": "POST Maintenance Office",
-    "externalId": "ste-1510",
-    "type": "space",
-    "polygons": [
-      "Z110"
-    ],
-    "description": "Authorized access only"
-  },
-  {
     "name": "BR+A Consulting Engineers",
     "externalId": "tenant-br-a-consulting-engineers",
-    "type": "tenant",
+    "type": "Tenant",
     "polygons": [
       "Z111"
     ],
     "categories": [
-      "work"
+      "work",
+      "offices"
     ],
     "description": "BR+A is a global engineering firm with projects that have spanned the world. Over the past four decades, BR+A has built a global reputation for excellence in MEP/FP Engineering Design. They help to create state-of-the-art facilities by providing tightly integrated and coordinated engineering services for every aspect of the built environment. With principals actively involved in each project, BR+A tackles everything from small, quick-turn assignments to the most complex, large-scale projects—from inception to construction completion and start up.",
-    "detailsUrl": "https://www.posthtx.com/tenants/brplusa-consulting-engineers",
+    "detailsUrl": "https://www.posthtx.com/tenants/brplusa-consulting-engineers?utm_source=mappedin&utm_medium=map&utm_campaign=directory",
     "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6758d21b49fcce655c08dca2_logo-bra_BLK.svg",
     "social": {
       "website": "https://www.brplusa.com/"
@@ -2380,15 +2369,16 @@
   {
     "name": "Shepley Bulfinch",
     "externalId": "tenant-shepley-bulfinch",
-    "type": "tenant",
+    "type": "Tenant",
     "polygons": [
       "Z201"
     ],
     "categories": [
-      "work"
+      "work",
+      "offices"
     ],
     "description": "Shepley Bulfinch is a forward-thinking leader in architecture and interior design nationally in the areas of education, healthcare, urban development and science and technology.",
-    "detailsUrl": "https://www.posthtx.com/tenants/shepley-bulfinch",
+    "detailsUrl": "https://www.posthtx.com/tenants/shepley-bulfinch?utm_source=mappedin&utm_medium=map&utm_campaign=directory",
     "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f50739208473_SB_logo_BLK.svg",
     "social": {
       "website": "https://www.shepleybulfinch.com/"
@@ -2397,15 +2387,16 @@
   {
     "name": "Lovett Industrial",
     "externalId": "tenant-lovett-industrial",
-    "type": "tenant",
+    "type": "Tenant",
     "polygons": [
       "Z203"
     ],
     "categories": [
-      "work"
+      "work",
+      "offices"
     ],
     "description": "Lovett Industrial is a top-tier, nationally focused real estate development company.",
-    "detailsUrl": "https://www.posthtx.com/tenants/lovett-industrial",
+    "detailsUrl": "https://www.posthtx.com/tenants/lovett-industrial?utm_source=mappedin&utm_medium=map&utm_campaign=directory",
     "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f50739208472_LovettIndustrial_Logo_BLK.svg",
     "social": {
       "website": "https://lovettindustrial.com/"
@@ -2414,23 +2405,27 @@
   {
     "name": "X Atrium South",
     "externalId": "ste-2650",
-    "type": "space",
+    "type": "Space",
     "polygons": [
       "X201"
+    ],
+    "categories": [
+      "destinations"
     ]
   },
   {
     "name": "Redfin",
     "externalId": "tenant-redfin",
-    "type": "tenant",
+    "type": "Tenant",
     "polygons": [
       "Z202"
     ],
     "categories": [
-      "work"
+      "work",
+      "offices"
     ],
     "description": "Redfin ( www.redfin.com ) is a technology-powered real estate company. Redfin helps people find a place to live with brokerage, rentals, lending, title insurance, and renovations services. They run the country's #1 real estate brokerage site.",
-    "detailsUrl": "https://www.posthtx.com/tenants/redfin",
+    "detailsUrl": "https://www.posthtx.com/tenants/redfin?utm_source=mappedin&utm_medium=map&utm_campaign=directory",
     "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f50739208475_Redfin_logo_BLK.svg",
     "social": {
       "website": "https://www.redfin.com/"
@@ -2439,7 +2434,7 @@
   {
     "name": "Sam & Davy",
     "externalId": "tenant-sam-davy",
-    "type": "tenant",
+    "type": "Tenant",
     "polygons": [
       "Z117"
     ],
@@ -2447,7 +2442,7 @@
       "shop"
     ],
     "description": "Built on H-Town pride. Designed to stand out. Sam & Davy delivers Houston lifestyle apparel and accessories with undeniable edge.",
-    "detailsUrl": "https://www.posthtx.com/tenants/sam-davy",
+    "detailsUrl": "https://www.posthtx.com/tenants/sam-davy?utm_source=mappedin&utm_medium=map&utm_campaign=directory",
     "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6aeba48ef8f4e75cc0fea2eb_Screenshot_2026-05-14_142522_600x.png",
     "headerImage": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6aeba48ef8f4e75cc0fea2e7_TusPXZaTMdUeXXpBN4VpiarFveF2%252F20240222015438__MG_5477-01-02_web2000w.jpeg",
     "social": {
@@ -2472,32 +2467,39 @@
   {
     "name": "O Atrium Level 2",
     "externalId": "o-atrium-level-2",
-    "type": "space",
+    "type": "Space",
     "polygons": [
       "O205"
+    ],
+    "categories": [
+      "destinations"
     ]
   },
   {
     "name": "East Wing",
     "externalId": "east-wing",
-    "type": "space",
+    "type": "Space",
     "polygons": [
       "EW1936"
+    ],
+    "categories": [
+      "destinations"
     ],
     "description": "In planning"
   },
   {
     "name": "El Tiempo Cantina",
     "externalId": "el-tiempo-cantina",
-    "type": "tenant",
+    "type": "Tenant",
     "polygons": [
       "B201"
     ],
     "categories": [
-      "eat"
+      "eat",
+      "eat-latin-flavor"
     ],
     "description": "Years ago, the El Tiempo Cantina family made fajitas popular in the United States. For the past 75 years, they have dedicated themselves to perfecting what Houstonians know today as authentic Tex Mex cuisine.",
-    "detailsUrl": "https://www.posthtx.com/tenants/el-tiempo-cantina",
+    "detailsUrl": "https://www.posthtx.com/tenants/el-tiempo-cantina?utm_source=mappedin&utm_medium=map&utm_campaign=directory",
     "telephone": "(713) 538-2930",
     "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6aea3850b55132864dd3cd15_6939af60ecd598785d7f274b_ElTiempo_logo.webp",
     "headerImage": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6aea3851b55132864dd3cd1a_6a302997ab1879443b36863c_El%2520Tiempo_Web%2520Res-8645.webp",
@@ -2571,7 +2573,7 @@
   {
     "name": "FotoLab Studio",
     "externalId": "tenant-fotolab",
-    "type": "tenant",
+    "type": "Tenant",
     "polygons": [
       "Z112"
     ],
@@ -2579,7 +2581,7 @@
       "shop"
     ],
     "description": "FotoLab Studio is Houston's first-self portrait studio where you can capture memories with your loved ones in a private room.",
-    "detailsUrl": "https://www.posthtx.com/tenants/fotolab-studio",
+    "detailsUrl": "https://www.posthtx.com/tenants/fotolab-studio?utm_source=mappedin&utm_medium=map&utm_campaign=directory",
     "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f50739208471_FotoLab_logo.svg",
     "social": {
       "website": "https://www.fotolab.studio/locations/houston"
@@ -2588,34 +2590,48 @@
   {
     "name": "Skyfarm",
     "externalId": "skyfarm",
-    "type": "space",
+    "type": "Space",
     "polygons": [
       "R304"
     ],
+    "categories": [
+      "destinations"
+    ],
     "parent": "skylawn",
-    "description": "Urban food farm operated by Blackwood Educational Land Institute"
+    "description": "Urban food farm operated by Blackwood Educational Land Institute",
+    "tags": [
+      "Farm",
+      "Group Tour"
+    ]
   },
   {
     "name": "Z Lobby",
     "externalId": "z-lobby",
-    "type": "space",
+    "type": "Space",
     "polygons": [
       "Z118"
     ],
-    "parent": "z-atrium"
+    "categories": [
+      "destinations"
+    ],
+    "parent": "z-atrium",
+    "tags": [
+      "lobby"
+    ]
   },
   {
     "name": "Common Desk",
     "externalId": "tenant-common-desk-by-wework",
-    "type": "tenant",
+    "type": "Tenant",
     "polygons": [
       "Z207"
     ],
     "categories": [
-      "work"
+      "work",
+      "coworking"
     ],
     "description": "Common Desk",
-    "detailsUrl": "https://www.posthtx.com/tenants/common-desk",
+    "detailsUrl": "https://www.posthtx.com/tenants/common-desk?utm_source=mappedin&utm_medium=map&utm_campaign=directory",
     "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f5073920829a_CommonDesk_Logo.svg",
     "social": {
       "website": "https://thecommondesk.com/locations/post-houston-coworking/"
@@ -2624,12 +2640,12 @@
   {
     "name": "Penthouse",
     "externalId": "penthouse",
-    "type": "space",
+    "type": "Space",
     "polygons": [
       "R302"
     ],
     "categories": [
-      "venues"
+      "destinations"
     ],
     "description": "Perched atop the iconic Z Atrium, Penthouse is our newest and largest rooftop event space. With breathtaking views of our rooftop park, the venue offers private restrooms and a dedicated catering kitchen. Perfect setting for galas, weddings, a glamorous soirée, or any star-lit celebration.",
     "gallery": [
@@ -2656,7 +2672,7 @@
   {
     "name": "Shakkar Bakery",
     "externalId": "tenant-shakkar-bakery",
-    "type": "tenant",
+    "type": "Tenant",
     "polygons": [
       "O117"
     ],
@@ -2665,7 +2681,7 @@
       "eat-sweet-treats"
     ],
     "description": "Local Croissanterie",
-    "detailsUrl": "https://www.posthtx.com/tenants/shakkar",
+    "detailsUrl": "https://www.posthtx.com/tenants/shakkar?utm_source=mappedin&utm_medium=map&utm_campaign=directory",
     "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f507392083e5_4cf94192-4d2a-44db-ac8a-ed3a06550163-PhotoRoom-2.webp",
     "headerImage": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f507392083e0_Shak-kar04-2400w.webp",
     "tags": [
@@ -2733,12 +2749,12 @@
   {
     "name": "Skylawn Room",
     "externalId": "skylawn-room",
-    "type": "space",
+    "type": "Space",
     "polygons": [
       "R301"
     ],
     "categories": [
-      "venues"
+      "destinations"
     ],
     "description": "Conveniently located next to X Atrium's north elevator and directly connected to our rooftop park, Skylawn Room is an intimate rooftop venue. Designed to power everything from high-impact presentations to unforgettable events.",
     "gallery": [
@@ -2762,23 +2778,34 @@
   {
     "name": "X Atrium SE Pod",
     "externalId": "southeast-pod",
-    "type": "space",
+    "type": "Space",
     "polygons": [
       "X101"
     ],
-    "parent": "x-atrium"
+    "categories": [
+      "destinations"
+    ],
+    "parent": "x-atrium",
+    "tags": [
+      "southeast pod",
+      "southeast gallery",
+      "se pod"
+    ]
   },
   {
     "name": "Barbara Jordan Plaza",
     "externalId": "barbara-jordan-plaza",
-    "type": "space",
+    "type": "Space",
     "polygons": [
       "PL101"
     ],
     "categories": [
-      "venues"
+      "destinations"
     ],
     "description": "Named for the trailblazing US Representative Barbara Jordan, Jordan Plaza places your event right on Franklin Street in the public eye. With POST's iconic facade as your backdrop, the Plaza is the perfect place for concerts, markets, outdoor art and more.",
+    "tags": [
+      "barbara jordan"
+    ],
     "gallery": [
       {
         "image": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a42f6b9a559aaa4de4a1f53_679408fdecf3e86864abddb5_MyTexasJourney%2520-%2520Barbara%252031_web.jpeg"
@@ -2803,23 +2830,34 @@
   {
     "name": "X Atrium NE Pod",
     "externalId": "northeast-pod",
-    "type": "space",
+    "type": "Space",
     "polygons": [
       "X102"
     ],
-    "parent": "x-atrium"
+    "categories": [
+      "destinations"
+    ],
+    "parent": "x-atrium",
+    "tags": [
+      "northeast pod",
+      "ne pod"
+    ]
   },
   {
     "name": "The Docks",
     "externalId": "the-docks",
-    "type": "space",
+    "type": "Space",
     "polygons": [
       "D101"
     ],
     "categories": [
-      "venues"
+      "destinations"
     ],
     "description": "The docks are the Post Office's former truck loading docks and are most suited to host outdoor markets. The space features state-of-the-art Void speakers and can be installed with a large LED wall for DJ sets, holiday celebrations, and other summer festivities.",
+    "tags": [
+      "north docks",
+      "back docks"
+    ],
     "gallery": [
       {
         "image": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a42f6b9a559aaa4de4a1f5c_67981c4183474c8eec437c85_DOCKS%2520MARKET.webp"
@@ -2841,22 +2879,33 @@
   {
     "name": "Training Room (Ste 1420)",
     "externalId": "training-room",
-    "type": "space",
+    "type": "Space",
     "polygons": [
       "Z106"
     ],
     "categories": [
-      "work"
+      "work",
+      "destinations"
     ],
     "parent": "tenant-common-desk-by-wework",
-    "description": "32-seat training room for coworking & meetings."
+    "description": "32-seat training room for coworking & meetings.",
+    "tags": [
+      "Venue Rental",
+      "Coworking",
+      "Amenity",
+      "training room",
+      "suite 1420"
+    ]
   },
   {
     "name": "713 Music Hall",
     "externalId": "713-music-hall",
-    "type": "tenant",
+    "type": "Tenant",
     "polygons": [
       "LN101"
+    ],
+    "categories": [
+      "destinations"
     ],
     "description": "Music venue by Live Nation",
     "tags": [
@@ -2870,14 +2919,18 @@
   {
     "name": "X Atrium",
     "externalId": "x-atrium",
-    "type": "space",
+    "type": "Space",
     "polygons": [
       "X100"
     ],
     "categories": [
-      "venues"
+      "destinations"
     ],
     "description": "The X Atrium is centered around an innovatively designed monumental stair. With areas around the staircase and customizable pods, there is plenty of room for performances, art shows and markets, large dinners and more.",
+    "tags": [
+      "Utilities",
+      "x atrium"
+    ],
     "gallery": [
       {
         "image": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a42f6b9a559aaa4de4a1f63_66abe0a90447f50739207b93_x-atirum-4.jpeg"
@@ -2905,14 +2958,17 @@
   {
     "name": "The Office",
     "externalId": "the-office",
-    "type": "space",
+    "type": "Space",
     "polygons": [
       "X202"
     ],
     "categories": [
-      "venues"
+      "destinations"
     ],
     "description": "A blank canvas for your event, the Office is the perfect place for dinners, conferences, presentations, markets and more.",
+    "tags": [
+      "the office"
+    ],
     "gallery": [
       {
         "image": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a42f6b9a559aaa4de4a1f3f_66abe0a90447f50739207ccf_The-office-cover.webp"
@@ -2940,58 +2996,52 @@
   {
     "name": "Art Club",
     "externalId": "art-club",
-    "type": "space",
+    "type": "Tenant",
     "polygons": [
       "X103"
     ],
     "categories": [
-      "culture",
-      "venues"
+      "destinations"
     ],
-    "description": "Art Club, a museum of new media art, offers a one-of-a-kind private event experience with immersive audio-visual environments and cutting-edge exhibits by award-winning artists from around the globe. With two distinct main event areas, this dynamic space will leave your guests in awe. Rent it on its own with a private entrance or combine it with X Atrium for a larger event.",
-    "gallery": [
-      {
-        "image": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a42f6b9a559aaa4de4a1f56_67abe71eaa3031161bcff4a4_External-2_web.webp"
-      },
-      {
-        "image": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a42f6b8a559aaa4de4a1f16_67abe52caa3031161bce0726_ArtClub_LovettParty_web.webp"
-      },
-      {
-        "image": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a42f6b8a559aaa4de4a1f25_684b336786fce34376590f58_ARTCLUB_Event-69_web.webp"
-      },
-      {
-        "image": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a42f6b7a559aaa4de4a1f04_67abe6f8b2f58373e2887a62_Polynode-1_web.webp"
-      },
-      {
-        "image": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a42f7eacb6da09a4638b2d3_684b331ab7dd483510f0232a_ARTCLUB_Event-28_web.webp"
-      },
-      {
-        "image": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a42f7eacb6da09a4638b2d6_67abe7996b39d272a0d4e7f6_Club-14_web.webp"
-      }
+    "description": "A museum of new media art + cutting edge DJ nights",
+    "tags": [
+      "Exhibition",
+      "Event",
+      "Venue Rental",
+      "Culture",
+      "art club",
+      "Museum",
+      "DJ"
     ]
   },
   {
     "name": "The Lawn",
     "externalId": "lawn",
-    "type": "space",
+    "type": "Space",
     "polygons": [
       "R306"
     ],
     "categories": [
-      "event-spaces"
+      "destinations"
     ],
     "parent": "skylawn",
-    "description": "Public space for everyone"
+    "description": "Public space for everyone",
+    "tags": [
+      "Event",
+      "lawn",
+      "skylawn",
+      "rooftop"
+    ]
   },
   {
     "name": "Outpost",
     "externalId": "outpost",
-    "type": "space",
+    "type": "Space",
     "polygons": [
       "R303"
     ],
     "categories": [
-      "venues"
+      "destinations"
     ],
     "description": "Flexible rooftop event space and adjacent to our rooftop farm. Outpost features panoramic views of the Houston skyline and is catered by award winning chefs.",
     "gallery": [
@@ -3021,22 +3071,35 @@
   {
     "name": "Z Atrium",
     "externalId": "z-atrium",
-    "type": "space",
+    "type": "Space",
     "polygons": [
       "Z100"
     ],
-    "description": "Z Atrium"
+    "categories": [
+      "destinations"
+    ],
+    "description": "Z Atrium",
+    "tags": [
+      "Utilities",
+      "z atrium"
+    ]
   },
   {
     "name": "POST Market",
     "externalId": "post-market",
-    "type": "space",
+    "type": "Space",
     "polygons": [
       "O100"
     ],
     "categories": [
-      "eat"
+      "eat",
+      "destinations"
     ],
-    "description": "International Food Hall"
+    "description": "International Food Hall",
+    "tags": [
+      "Eateries",
+      "Bar",
+      "food hall"
+    ]
   }
 ]
