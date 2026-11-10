@@ -1,6 +1,6 @@
 [
   {
-    "name": "Trivia Tuesday:  Harry Potter",
+    "name": "Trivia Tuesday: Harry Potter",
     "externalId": "6af040d9fbf8cbb8cb757965",
     "type": "event",
     "startDate": 1794355200000,
@@ -22,14 +22,14 @@
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6ac7ebbff6aa7361e7abd8bc_web%20use.jpg"
   },
   {
-    "name": "Free Spanish Yoga Class ",
+    "name": "Free Spanish Yoga Class",
     "externalId": "6ae917aef61f6302b98698bc",
     "type": "event",
     "startDate": 1794445200000,
     "endDate": 1794448800000,
     "showDate": 1794376800000,
     "location": "outpost",
-    "description": "All levels free yoga IN SPANISH. ",
+    "description": "All levels free yoga IN SPANISH.",
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/670060b50e71b2e308266ad6_processed-B9516666-F10C-402B-8176-E4E92E3F2176.webp"
   },
   {
@@ -127,7 +127,7 @@
     "endDate": 1794690000000,
     "showDate": 1794636000000,
     "location": "x-atrium",
-    "description": "Come visit BARC Animal Shelter & Adoptions for an adorable adoption event in our X Atrium! ",
+    "description": "Come visit BARC Animal Shelter & Adoptions for an adorable adoption event in our X Atrium!",
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/68388883a4ed16c6ff7c043d_barc-adoption-day%20(1).webp"
   },
   {
@@ -138,7 +138,7 @@
     "endDate": 1794715200000,
     "showDate": 1794636000000,
     "location": "the-docks",
-    "description": "Sing your heart out at a special Saturday night edition of Karaoke Night on the Docks! ",
+    "description": "Sing your heart out at a special Saturday night edition of Karaoke Night on the Docks!",
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/683766e324e89ebd1cbba0c0_20250528_SNF_WEBSITE%20(edit).webp"
   },
   {
@@ -160,7 +160,7 @@
     "endDate": 1794767400000,
     "showDate": 1794722400000,
     "location": "z-atrium",
-    "description": "Join Eden Church for service every Sunday! ",
+    "description": "Join Eden Church for service every Sunday!",
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/67ad1c077094a2e5706a4936_Eden%20Church%20Houston%20Gathering%20-1200px.webp"
   },
   {
@@ -174,7 +174,7 @@
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a06ddce5c7a7cb457e8132b_0f443b67-a406-4ec4-ab4d-ca459588f979_TABLET_LANDSCAPE_LARGE_16_9.webp"
   },
   {
-    "name": "Free Zumba Class - Tuesday ",
+    "name": "Free Zumba Class - Tuesday",
     "externalId": "66abe0a90447f50739207dfe",
     "type": "event",
     "startDate": 1794961800000,
