@@ -153,6 +153,17 @@
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a61127b8c9651764932bc4c_Club-97_web.jpg"
   },
   {
+    "name": "Eden Church Houston: Sunday Service",
+    "externalId": "67ad0cca3430a3bc450b472e",
+    "type": "event",
+    "startDate": 1794753000000,
+    "endDate": 1794767400000,
+    "showDate": 1794722400000,
+    "location": "z-atrium",
+    "description": "Join Eden Church for service every Sunday! ",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/67ad1c077094a2e5706a4936_Eden%20Church%20Houston%20Gathering%20-1200px.webp"
+  },
+  {
     "name": "El Tri",
     "externalId": "6a06ddd7ad91883393b08b37",
     "type": "event",
@@ -161,5 +172,16 @@
     "showDate": 1794722400000,
     "location": "713-music-hall",
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a06ddce5c7a7cb457e8132b_0f443b67-a406-4ec4-ab4d-ca459588f979_TABLET_LANDSCAPE_LARGE_16_9.webp"
+  },
+  {
+    "name": "Free Zumba Class - Tuesday ",
+    "externalId": "66abe0a90447f50739207dfe",
+    "type": "event",
+    "startDate": 1794961800000,
+    "endDate": 1794965400000,
+    "showDate": 1794895200000,
+    "location": "x-atrium",
+    "description": "POST is hosting Free Zumba Classes every 3rd Tuesday of the month!",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a425e77a8442a599feb8cee_Zumba.jpg"
   }
 ]
