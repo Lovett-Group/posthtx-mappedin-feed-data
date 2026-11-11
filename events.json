@@ -1,27 +1,5 @@
 [
   {
-    "name": "Trivia Tuesday: Harry Potter",
-    "externalId": "6af040d9fbf8cbb8cb757965",
-    "type": "event",
-    "startDate": 1794355200000,
-    "endDate": 1794362400000,
-    "showDate": 1794290400000,
-    "location": "post-market",
-    "description": "Join us every Tuesday evening at POST Market for Trivia Tuesdays. Test your knowledge across a wide range of topics, from pop culture and movies to history and sports.",
-    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66c8a8f367c7e7fef3b5f6de_1.Trivia%20Night%20-%20Web.webp"
-  },
-  {
-    "name": "Houston Music Festival and POST present Elijah Fox: Ambient City",
-    "externalId": "6ac7ec248fd1a0cdaa4721e5",
-    "type": "event",
-    "startDate": 1794360600000,
-    "endDate": 1794366000000,
-    "showDate": 1794290400000,
-    "location": "art-club",
-    "description": "Houston Music Festival and POST present jazz pianist Elijah Fox performing 'Ambient City', a solo cinematic keyboard performance that finds the soul in the hum and glow of the city.",
-    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6ac7ebbff6aa7361e7abd8bc_web%20use.jpg"
-  },
-  {
     "name": "Free Spanish Yoga Class",
     "externalId": "6ae917aef61f6302b98698bc",
     "type": "event",
@@ -183,5 +161,15 @@
     "location": "x-atrium",
     "description": "POST is hosting Free Zumba Classes every 3rd Tuesday of the month!",
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a425e77a8442a599feb8cee_Zumba.jpg"
+  },
+  {
+    "name": "RAWAYANA - ¿Dónde es el after? World Tour",
+    "externalId": "69dd903d756d120e67f54588",
+    "type": "event",
+    "startDate": 1795053600000,
+    "endDate": 1795067999999,
+    "showDate": 1794981600000,
+    "location": "713-music-hall",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/69dd90210f588fd276be7d91_525f0ed8-7730-4797-90a5-01b1c4c21316_TABLET_LANDSCAPE_LARGE_16_9.jpg"
   }
 ]
