@@ -2,22 +2,26 @@
   {
     "name": "Eat",
     "externalId": "eat",
-    "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4cf1a6a527a4b94f8eb41_dine.svg"
+    "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4dd9d47907d0f9571d96b_dine.svg",
+    "pictureKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4e68c6b3ef6a1b05f534a_eat-category-image.webp"
   },
   {
     "name": "Shop",
     "externalId": "shop",
-    "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4d0277e982d811a2abd5c_shop.svg"
+    "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4dde7274a27af49d3ccd1_shop.svg",
+    "pictureKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4e6944e557c6505280897_ac-store-7_web.jpg"
   },
   {
     "name": "Work",
     "externalId": "work",
-    "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4d00a82409dffdcf1fe60_coffee.svg"
+    "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4ddd5caca39f832386d0a_coffee.svg",
+    "pictureKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4e6a91dbe40ea98a9e8bc_work-category-image.webp"
   },
   {
     "name": "Destinations",
     "externalId": "destinations",
-    "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4d013763917f612f6ad10_destination.svg"
+    "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4ddda5f73d87a50e9384f_destination.svg",
+    "pictureKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4e6bd1dbe40ea98a9ef5e_destinations-category-image.jpg"
   },
   {
     "name": "Coworking",
@@ -25,7 +29,7 @@
     "parents": [
       "work"
     ],
-    "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4d00a82409dffdcf1fe60_coffee.svg"
+    "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4ddd5caca39f832386d0a_coffee.svg"
   },
   {
     "name": "Offices",
@@ -33,7 +37,7 @@
     "parents": [
       "work"
     ],
-    "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4cfdcee940d6959d86fac_office.svg"
+    "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4ddcf5f73d87a50e92816_office.svg"
   },
   {
     "name": "Meat Lover",
@@ -41,7 +45,7 @@
     "parents": [
       "eat"
     ],
-    "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4cf1a6a527a4b94f8eb41_dine.svg"
+    "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4dd9d47907d0f9571d96b_dine.svg"
   },
   {
     "name": "Healthy Energy",
@@ -49,7 +53,7 @@
     "parents": [
       "eat"
     ],
-    "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4cf1a6a527a4b94f8eb41_dine.svg"
+    "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4dd9d47907d0f9571d96b_dine.svg"
   },
   {
     "name": "African Soul",
@@ -57,7 +61,7 @@
     "parents": [
       "eat"
     ],
-    "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4cf1a6a527a4b94f8eb41_dine.svg"
+    "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4dd9d47907d0f9571d96b_dine.svg"
   },
   {
     "name": "Cheers!",
@@ -65,7 +69,7 @@
     "parents": [
       "eat"
     ],
-    "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4cfa0bb01694af08acea7_bar.svg"
+    "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4ddbaee940d6959e00c1c_bar.svg"
   },
   {
     "name": "American Classics",
@@ -73,7 +77,7 @@
     "parents": [
       "eat"
     ],
-    "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4cf1a6a527a4b94f8eb41_dine.svg"
+    "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4dd9d47907d0f9571d96b_dine.svg"
   },
   {
     "name": "Sweet & Treats",
@@ -81,7 +85,7 @@
     "parents": [
       "eat"
     ],
-    "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4cf1a6a527a4b94f8eb41_dine.svg"
+    "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4dd9d47907d0f9571d96b_dine.svg"
   },
   {
     "name": "Latin Flavor",
@@ -89,7 +93,7 @@
     "parents": [
       "eat"
     ],
-    "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4cf1a6a527a4b94f8eb41_dine.svg"
+    "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4dd9d47907d0f9571d96b_dine.svg"
   },
   {
     "name": "Asian Kitchen",
@@ -97,11 +101,12 @@
     "parents": [
       "eat"
     ],
-    "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4cf1a6a527a4b94f8eb41_dine.svg"
+    "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4dd9d47907d0f9571d96b_dine.svg"
   },
   {
     "name": "Parking",
     "externalId": "parking",
-    "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4cefb7439356cf36260c1_parking.svg"
+    "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4dd96a930b27fcfe4737c_parking.svg",
+    "pictureKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4e67ab04c325f8ad6640c_parking-category-image.jpg"
   }
 ]
