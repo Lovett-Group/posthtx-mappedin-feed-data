@@ -6,7 +6,7 @@
     "startDate": 1794445200000,
     "endDate": 1794448800000,
     "showDate": 1794376800000,
-    "location": "outpost",
+    "location": "the-office",
     "description": "All levels free yoga IN SPANISH.",
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/670060b50e71b2e308266ad6_processed-B9516666-F10C-402B-8176-E4E92E3F2176.webp"
   },
@@ -150,6 +150,17 @@
     "showDate": 1794722400000,
     "location": "713-music-hall",
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a06ddce5c7a7cb457e8132b_0f443b67-a406-4ec4-ab4d-ca459588f979_TABLET_LANDSCAPE_LARGE_16_9.webp"
+  },
+  {
+    "name": "Trivia Tuesday: Holiday Blockbusters and More",
+    "externalId": "6af478b99125e876b3a2482a",
+    "type": "event",
+    "startDate": 1794960000000,
+    "endDate": 1794967200000,
+    "showDate": 1794895200000,
+    "location": "post-market",
+    "description": "Join us every Tuesday evening at POST Market for Trivia Tuesdays. Test your knowledge across a wide range of topics, from pop culture and movies to history and sports.",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66c8a8f367c7e7fef3b5f6de_1.Trivia%20Night%20-%20Web.webp"
   },
   {
     "name": "Free Zumba Class - Tuesday",
