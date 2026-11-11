@@ -1,92 +1,107 @@
 [
   {
     "name": "Eat",
-    "externalId": "eat"
+    "externalId": "eat",
+    "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4cf1a6a527a4b94f8eb41_dine.svg"
   },
   {
     "name": "Shop",
-    "externalId": "shop"
+    "externalId": "shop",
+    "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4d0277e982d811a2abd5c_shop.svg"
   },
   {
     "name": "Work",
-    "externalId": "work"
+    "externalId": "work",
+    "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4d00a82409dffdcf1fe60_coffee.svg"
   },
   {
     "name": "Destinations",
-    "externalId": "destinations"
+    "externalId": "destinations",
+    "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4d013763917f612f6ad10_destination.svg"
   },
   {
     "name": "Coworking",
     "externalId": "coworking",
     "parents": [
       "work"
-    ]
+    ],
+    "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4d00a82409dffdcf1fe60_coffee.svg"
   },
   {
     "name": "Offices",
     "externalId": "offices",
     "parents": [
       "work"
-    ]
+    ],
+    "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4cfdcee940d6959d86fac_office.svg"
   },
   {
     "name": "Meat Lover",
     "externalId": "eat-meat-lover",
     "parents": [
       "eat"
-    ]
+    ],
+    "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4cf1a6a527a4b94f8eb41_dine.svg"
   },
   {
     "name": "Healthy Energy",
     "externalId": "eat-healthy-energy",
     "parents": [
       "eat"
-    ]
+    ],
+    "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4cf1a6a527a4b94f8eb41_dine.svg"
   },
   {
     "name": "African Soul",
     "externalId": "eat-african-soul",
     "parents": [
       "eat"
-    ]
+    ],
+    "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4cf1a6a527a4b94f8eb41_dine.svg"
   },
   {
     "name": "Cheers!",
     "externalId": "eat-cheers",
     "parents": [
       "eat"
-    ]
+    ],
+    "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4cfa0bb01694af08acea7_bar.svg"
   },
   {
     "name": "American Classics",
     "externalId": "eat-american-classics",
     "parents": [
       "eat"
-    ]
+    ],
+    "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4cf1a6a527a4b94f8eb41_dine.svg"
   },
   {
     "name": "Sweet & Treats",
     "externalId": "eat-sweet-treats",
     "parents": [
       "eat"
-    ]
+    ],
+    "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4cf1a6a527a4b94f8eb41_dine.svg"
   },
   {
     "name": "Latin Flavor",
     "externalId": "eat-latin-flavor",
     "parents": [
       "eat"
-    ]
+    ],
+    "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4cf1a6a527a4b94f8eb41_dine.svg"
   },
   {
     "name": "Asian Kitchen",
     "externalId": "eat-asian-kitchen",
     "parents": [
       "eat"
-    ]
+    ],
+    "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4cf1a6a527a4b94f8eb41_dine.svg"
   },
   {
     "name": "Parking",
-    "externalId": "parking"
+    "externalId": "parking",
+    "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4cefb7439356cf36260c1_parking.svg"
   }
 ]
