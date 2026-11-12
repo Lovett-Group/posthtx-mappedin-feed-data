@@ -1,30 +1,30 @@
 [
   {
-    "name": "Eat",
+    "name": "EAT",
     "externalId": "eat",
     "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4dd9d47907d0f9571d96b_dine.svg",
     "pictureKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4e68c6b3ef6a1b05f534a_eat-category-image.webp"
   },
   {
-    "name": "Shop",
+    "name": "SHOP",
     "externalId": "shop",
     "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4dde7274a27af49d3ccd1_shop.svg",
     "pictureKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4e6944e557c6505280897_ac-store-7_web.jpg"
   },
   {
-    "name": "Work",
+    "name": "WORK",
     "externalId": "work",
     "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4ddd5caca39f832386d0a_coffee.svg",
     "pictureKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4e6a91dbe40ea98a9e8bc_work-category-image.webp"
   },
   {
-    "name": "Destinations",
+    "name": "DESTINATIONS",
     "externalId": "destinations",
     "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4ddda5f73d87a50e9384f_destination.svg",
     "pictureKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4e6bd1dbe40ea98a9ef5e_destinations-category-image.jpg"
   },
   {
-    "name": "Coworking",
+    "name": "COWORKING",
     "externalId": "coworking",
     "parents": [
       "work"
@@ -32,7 +32,7 @@
     "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4ddd5caca39f832386d0a_coffee.svg"
   },
   {
-    "name": "Offices",
+    "name": "OFFICES",
     "externalId": "offices",
     "parents": [
       "work"
@@ -40,7 +40,7 @@
     "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4ddcf5f73d87a50e92816_office.svg"
   },
   {
-    "name": "Meat Lover",
+    "name": "MEAT LOVER",
     "externalId": "eat-meat-lover",
     "parents": [
       "eat"
@@ -48,7 +48,7 @@
     "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4dd9d47907d0f9571d96b_dine.svg"
   },
   {
-    "name": "Healthy Energy",
+    "name": "HEALTHY ENERGY",
     "externalId": "eat-healthy-energy",
     "parents": [
       "eat"
@@ -56,7 +56,7 @@
     "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4dd9d47907d0f9571d96b_dine.svg"
   },
   {
-    "name": "African Soul",
+    "name": "AFRICAN SOUL",
     "externalId": "eat-african-soul",
     "parents": [
       "eat"
@@ -64,7 +64,7 @@
     "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4dd9d47907d0f9571d96b_dine.svg"
   },
   {
-    "name": "Cheers!",
+    "name": "CHEERS!",
     "externalId": "eat-cheers",
     "parents": [
       "eat"
@@ -72,7 +72,7 @@
     "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4ddbaee940d6959e00c1c_bar.svg"
   },
   {
-    "name": "American Classics",
+    "name": "AMERICAN CLASSICS",
     "externalId": "eat-american-classics",
     "parents": [
       "eat"
@@ -80,7 +80,7 @@
     "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4dd9d47907d0f9571d96b_dine.svg"
   },
   {
-    "name": "Sweet & Treats",
+    "name": "SWEET & TREATS",
     "externalId": "eat-sweet-treats",
     "parents": [
       "eat"
@@ -88,7 +88,7 @@
     "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4dd9d47907d0f9571d96b_dine.svg"
   },
   {
-    "name": "Latin Flavor",
+    "name": "LATIN FLAVOR",
     "externalId": "eat-latin-flavor",
     "parents": [
       "eat"
@@ -96,7 +96,7 @@
     "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4dd9d47907d0f9571d96b_dine.svg"
   },
   {
-    "name": "Asian Kitchen",
+    "name": "ASIAN KITCHEN",
     "externalId": "eat-asian-kitchen",
     "parents": [
       "eat"
@@ -104,7 +104,7 @@
     "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4dd9d47907d0f9571d96b_dine.svg"
   },
   {
-    "name": "Parking",
+    "name": "PARKING",
     "externalId": "parking",
     "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4dd96a930b27fcfe4737c_parking.svg",
     "pictureKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4e67ab04c325f8ad6640c_parking-category-image.jpg"
