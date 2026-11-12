@@ -1,16 +1,5 @@
 [
   {
-    "name": "Free Spanish Yoga Class",
-    "externalId": "6ae917aef61f6302b98698bc",
-    "type": "event",
-    "startDate": 1794445200000,
-    "endDate": 1794448800000,
-    "showDate": 1794376800000,
-    "location": "the-office",
-    "description": "All levels free yoga IN SPANISH.",
-    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/670060b50e71b2e308266ad6_processed-B9516666-F10C-402B-8176-E4E92E3F2176.webp"
-  },
-  {
     "name": "Line Dance Night",
     "externalId": "66abe0a90447f50739207fa2",
     "type": "event",
@@ -193,5 +182,48 @@
     "showDate": 1794981600000,
     "location": "713-music-hall",
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/69dd90210f588fd276be7d91_525f0ed8-7730-4797-90a5-01b1c4c21316_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+  },
+  {
+    "name": "Salsa y Bachata Night",
+    "externalId": "66abe0a90447f50739207df0-the-office",
+    "type": "event",
+    "startDate": 1795136400000,
+    "endDate": 1795147200000,
+    "showDate": 1795068000000,
+    "location": "the-office",
+    "description": "Salsa Night at POST with lessons, social dancing, tasty beverages, and more!",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f50739208323_Small.jpg"
+  },
+  {
+    "name": "Salsa y Bachata Night",
+    "externalId": "66abe0a90447f50739207df0-x-atrium",
+    "type": "event",
+    "startDate": 1795136400000,
+    "endDate": 1795147200000,
+    "showDate": 1795068000000,
+    "location": "x-atrium",
+    "description": "Salsa Night at POST with lessons, social dancing, tasty beverages, and more!",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f50739208323_Small.jpg"
+  },
+  {
+    "name": "RAWAYANA - ¿Dónde es el after? World Tour",
+    "externalId": "6a01a5d0d534d8e6a8130920",
+    "type": "event",
+    "startDate": 1795140000000,
+    "endDate": 1795154399999,
+    "showDate": 1795068000000,
+    "location": "713-music-hall",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a01a5c799e2726b91d8967b_525f0ed8-7730-4797-90a5-01b1c4c21316_TABLET_LANDSCAPE_LARGE_16_9.webp"
+  },
+  {
+    "name": "DJ Night — EQ",
+    "externalId": "6abeabbfe62a43734671513e",
+    "type": "event",
+    "startDate": 1795143600000,
+    "endDate": 1795161600000,
+    "showDate": 1795068000000,
+    "location": "art-club",
+    "description": "Rising Argentinian electronic duo EQ touches down at Art Club",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6ab14c6e83943882f569f53b_Club-107_web.jpg"
   }
 ]
