@@ -108,5 +108,15 @@
     "externalId": "parking",
     "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4dd96a930b27fcfe4737c_parking.svg",
     "pictureKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af4e67ab04c325f8ad6640c_parking-category-image.jpg"
+  },
+  {
+    "name": "RESTROOMS",
+    "externalId": "restrooms",
+    "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af74c595f000478b651b2e5_restroom-all.svg"
+  },
+  {
+    "name": "GUEST SERVICES",
+    "externalId": "guest-services",
+    "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af74c9cbc261e2375f7cb76_info.svg"
   }
 ]
