@@ -1,37 +1,5 @@
 [
   {
-    "name": "Line Dance Night",
-    "externalId": "66abe0a90447f50739207fa2",
-    "type": "event",
-    "startDate": 1794531600000,
-    "endDate": 1794535200000,
-    "showDate": 1794463200000,
-    "location": "x-atrium",
-    "description": "Line Dance Night",
-    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f50739208411_20230613_POST_LineDance-19-Small_kb.webp"
-  },
-  {
-    "name": "Jessie Reyez: A Little Vengeance Tour",
-    "externalId": "6a9a8b355913f8d61e43b697",
-    "type": "event",
-    "startDate": 1794535200000,
-    "endDate": 1794549599999,
-    "showDate": 1794463200000,
-    "location": "713-music-hall",
-    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a9a8b1fe5a6b0bcf92c7c26_b7dd9eb7-3100-4f20-a850-e277be1e1d21_SOURCE.png"
-  },
-  {
-    "name": "Movie Night on the Lawn: Addams Family Values",
-    "externalId": "68c20778d38ce42d62f5d0ac",
-    "type": "event",
-    "startDate": 1794535200000,
-    "endDate": 1794542400000,
-    "showDate": 1794463200000,
-    "location": "lawn",
-    "description": "Come by POST for Movie Night on the Lawn! For this edition on our rooftop park, Skylawn, we'll be showing 'Addams Family Values.'",
-    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/68c207527a1d7dbabd5963d6_d4cca24f-ec95-4044-a2bd-835e4f00784d.sized-1000x1000.webp"
-  },
-  {
     "name": "POST Wine Series: Goosecross",
     "externalId": "6ad85ba7b1fee9b7124d6be9",
     "type": "event",
@@ -225,5 +193,48 @@
     "location": "art-club",
     "description": "Rising Argentinian electronic duo EQ touches down at Art Club",
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6ab14c6e83943882f569f53b_Club-107_web.jpg"
+  },
+  {
+    "name": "Jazz Jam on the Docks",
+    "externalId": "6a9102cfe676bcd72819f42a",
+    "type": "event",
+    "startDate": 1795222800000,
+    "endDate": 1795230000000,
+    "showDate": 1795154400000,
+    "location": "the-docks",
+    "description": "Jazz Jam on the Docks for our Spring Concert Series with Madison Arts Inc & More!",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a0f371747145123c60247e9_web%20banner%201.jpg"
+  },
+  {
+    "name": "Pedro Fernández - Ave Fénix Two'r",
+    "externalId": "6a8fa6018ca81c670c4a75ae",
+    "type": "event",
+    "startDate": 1795226400000,
+    "endDate": 1795240799999,
+    "showDate": 1795154400000,
+    "location": "713-music-hall",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a8fa5ca9680b212e49b9ad4_c4307fa6-8d53-4c29-9f64-3ee62bcc558e_TABLET_LANDSCAPE_LARGE_16_9.webp"
+  },
+  {
+    "name": "Johnny Cash Tribute Band Rooftop Concert",
+    "externalId": "6a2c77e06708c6b8603d87b1",
+    "type": "event",
+    "startDate": 1795226400000,
+    "endDate": 1795233600000,
+    "showDate": 1795154400000,
+    "location": "outpost",
+    "description": "Ring of Fire LIVE: A tribute to Johnny Cash comes to POST for an unforgettable live concert experience!",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a2c77c88eb2dd61f29ef21f_banner%20-%20small.jpg"
+  },
+  {
+    "name": "DJ Night — Kyle Watson",
+    "externalId": "6adfd03a762406c3fb668fb1",
+    "type": "event",
+    "startDate": 1795233600000,
+    "endDate": 1795251600000,
+    "showDate": 1795154400000,
+    "location": "art-club",
+    "description": "Kyle Watson is a globally recognized house artist known for his signature blend of rolling basslines and forward-thinking production, with support from John Summit, Chris Lake, and Gorgon City and performances at Coachella, Lollapalooza, and headline shows worldwide.",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a342d4faf7f74fde9ccb9c7_Club-69_web.jpg"
   }
 ]
