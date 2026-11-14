@@ -1,16 +1,5 @@
 [
   {
-    "name": "POST Wine Series: Goosecross",
-    "externalId": "6ad85ba7b1fee9b7124d6be9",
-    "type": "event",
-    "startDate": 1794614400000,
-    "endDate": 1794621600000,
-    "showDate": 1794549600000,
-    "location": "penthouse",
-    "description": "Join us for the launch of our wine series at POST Houston with an evening of Goosecross wines, light bites, and good company.",
-    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6ad85ada99a036eb4701f461_goosecross.jpg"
-  },
-  {
     "name": "DJ Night — Riordan [Official Breakaway Afterparty]",
     "externalId": "6ad1477dd2c4d78344fd868b",
     "type": "event",
@@ -236,5 +225,59 @@
     "location": "art-club",
     "description": "Kyle Watson is a globally recognized house artist known for his signature blend of rolling basslines and forward-thinking production, with support from John Summit, Chris Lake, and Gorgon City and performances at Coachella, Lollapalooza, and headline shows worldwide.",
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a342d4faf7f74fde9ccb9c7_Club-69_web.jpg"
+  },
+  {
+    "name": "HTX Fall Fest",
+    "externalId": "6ad245b8d307f29466c132cc",
+    "type": "event",
+    "startDate": 1795284000000,
+    "endDate": 1795302000000,
+    "showDate": 1795240800000,
+    "location": "x-atrium",
+    "description": "Get ready for a day full of shopping, community and fun for everyone to enjoy with us at our annual Fall Fest!🍂",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6ad24018ee309537e63a6c19_web%20banner.jpg"
+  },
+  {
+    "name": "Moms in Motion",
+    "externalId": "6abeda4b907d72d88df7ee9f",
+    "type": "event",
+    "startDate": 1795291200000,
+    "endDate": 1795302000000,
+    "showDate": 1795240800000,
+    "location": "skylawn-room",
+    "description": "Join us for a Mom & Baby Workout Class!",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a4e7d979b33e1a46f297cc3_web%20banner.jpg"
+  },
+  {
+    "name": "Kazoku Saxophone Quartet",
+    "externalId": "6a9445aa06f573e20cfe506d",
+    "type": "event",
+    "startDate": 1795294800000,
+    "endDate": 1795302000000,
+    "showDate": 1795240800000,
+    "location": "z-atrium",
+    "description": "Kazoku Saxophone Quartet brings classical music to the Z Atrium",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/68a3a6fc7a5e9114ebcf165b_web%20use.webp"
+  },
+  {
+    "name": "CHELSEA HANDLER: THE HIGH AND MIGHTY TOUR",
+    "externalId": "69dd93ace36046dbdb4f1273",
+    "type": "event",
+    "startDate": 1795312800000,
+    "endDate": 1795327199999,
+    "showDate": 1795240800000,
+    "location": "713-music-hall",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/69dd93930f588fd276c00a61_38e0c356-6bcb-4cd2-ab5d-97809a77ce90_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+  },
+  {
+    "name": "DJ Night — DJ_Dave",
+    "externalId": "6a95eae85d3fdb3b7f92f9be",
+    "type": "event",
+    "startDate": 1795320000000,
+    "endDate": 1795338000000,
+    "showDate": 1795240800000,
+    "location": "art-club",
+    "description": "Art Club welcomes DJ_Dave, an electronic artist and producer who creates music live by writing code on stage, combining real-time sound synthesis, projected coding, and live vocals into a performance unlike anything else in electronic music.",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a8dd326ca8b2d1827fdedff_Club-17_web.jpg"
   }
 ]
