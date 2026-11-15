@@ -1,38 +1,5 @@
 [
   {
-    "name": "DJ Night — Riordan [Official Breakaway Afterparty]",
-    "externalId": "6ad1477dd2c4d78344fd868b",
-    "type": "event",
-    "startDate": 1794628800000,
-    "endDate": 1794646800000,
-    "showDate": 1794549600000,
-    "location": "art-club",
-    "description": "Innerloop & Breakaway Fest are proud to present Riordan for the official Breakaway Houston Festival Afterparty",
-    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6ad14792af72f52ed0e140c1_id_385_d2c0aa28-a827-4d12-1234567865d-bf8dab3f68de.webp"
-  },
-  {
-    "name": "Breakaway Houston Run Club & Wellness Kickback",
-    "externalId": "6aebb98b8d04d86c8ac9d6ab-barbara-jordan-plaza",
-    "type": "event",
-    "startDate": 1794668400000,
-    "endDate": 1794677400000,
-    "showDate": 1794636000000,
-    "location": "barbara-jordan-plaza",
-    "description": "Join us for a Breakaway Houston Run Club & Wellness Kickback 2026 presented by Celsius!",
-    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6aecc38fcf886074ace7e2aa_RUNCLUB-2.jpg"
-  },
-  {
-    "name": "Breakaway Houston Run Club & Wellness Kickback",
-    "externalId": "6aebb98b8d04d86c8ac9d6ab-skylawn",
-    "type": "event",
-    "startDate": 1794668400000,
-    "endDate": 1794677400000,
-    "showDate": 1794636000000,
-    "location": "skylawn",
-    "description": "Join us for a Breakaway Houston Run Club & Wellness Kickback 2026 presented by Celsius!",
-    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6aecc38fcf886074ace7e2aa_RUNCLUB-2.jpg"
-  },
-  {
     "name": "Markets for Makers",
     "externalId": "6ae3a3650bbf544ddd0cd4fc",
     "type": "event",
@@ -42,28 +9,6 @@
     "location": "the-office",
     "description": "Shop from over 100 makers, visit an exclusive DIY station, and fill your free tote with goodies throughout the event!",
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6ae3a234956c2162e8984ede_web%20use%202.jpg"
-  },
-  {
-    "name": "BARC Adoption Day",
-    "externalId": "69b67433d3505af04aae2427",
-    "type": "event",
-    "startDate": 1794675600000,
-    "endDate": 1794690000000,
-    "showDate": 1794636000000,
-    "location": "x-atrium",
-    "description": "Come visit BARC Animal Shelter & Adoptions for an adorable adoption event in our X Atrium!",
-    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/68388883a4ed16c6ff7c043d_barc-adoption-day%20(1).webp"
-  },
-  {
-    "name": "Karaoke Night: Saturday Mic Fever",
-    "externalId": "682e5f15eeeb18d6094bde5d",
-    "type": "event",
-    "startDate": 1794704400000,
-    "endDate": 1794715200000,
-    "showDate": 1794636000000,
-    "location": "the-docks",
-    "description": "Sing your heart out at a special Saturday night edition of Karaoke Night on the Docks!",
-    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/683766e324e89ebd1cbba0c0_20250528_SNF_WEBSITE%20(edit).webp"
   },
   {
     "name": "DJ Night — Skream [OPEN TO CLOSE]",
@@ -279,5 +224,16 @@
     "location": "art-club",
     "description": "Art Club welcomes DJ_Dave, an electronic artist and producer who creates music live by writing code on stage, combining real-time sound synthesis, projected coding, and live vocals into a performance unlike anything else in electronic music.",
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a8dd326ca8b2d1827fdedff_Club-17_web.jpg"
+  },
+  {
+    "name": "Mother Nature + The Everlasting Vibez | LIVE On The Docks",
+    "externalId": "6af7c0c261ae74f71be806af",
+    "type": "event",
+    "startDate": 1795388400000,
+    "endDate": 1795395600000,
+    "showDate": 1795327200000,
+    "location": "the-docks",
+    "description": "Mother Nature + The Everlasting Vibez LIVE Show on The Docks",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af7c0bcbe4f4645428f9aa9_Orange%20Black%20Bold%20Modern%20Music%20Concert%20Event%20Flyer%20-%201cropresize.png"
   }
 ]
