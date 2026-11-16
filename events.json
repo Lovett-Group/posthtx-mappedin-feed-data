@@ -5,7 +5,7 @@
     "type": "event",
     "startDate": 1794960000000,
     "endDate": 1794967200000,
-    "showDate": 1794895200000,
+    "showDate": 1794290400000,
     "location": "post-market",
     "description": "Join us every Tuesday evening at POST Market for Trivia Tuesdays. Test your knowledge across a wide range of topics, from pop culture and movies to history and sports.",
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66c8a8f367c7e7fef3b5f6de_1.Trivia%20Night%20-%20Web.webp"
@@ -16,7 +16,7 @@
     "type": "event",
     "startDate": 1794961800000,
     "endDate": 1794965400000,
-    "showDate": 1794895200000,
+    "showDate": 1794290400000,
     "location": "x-atrium",
     "description": "POST is hosting Free Zumba Classes every 3rd Tuesday of the month!",
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a425e77a8442a599feb8cee_Zumba.jpg"
@@ -27,7 +27,7 @@
     "type": "event",
     "startDate": 1795053600000,
     "endDate": 1795067999999,
-    "showDate": 1794981600000,
+    "showDate": 1794376800000,
     "location": "713-music-hall",
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/69dd90210f588fd276be7d91_525f0ed8-7730-4797-90a5-01b1c4c21316_TABLET_LANDSCAPE_LARGE_16_9.jpg"
   },
@@ -37,7 +37,7 @@
     "type": "event",
     "startDate": 1795136400000,
     "endDate": 1795147200000,
-    "showDate": 1795068000000,
+    "showDate": 1794463200000,
     "location": "the-office",
     "description": "Salsa Night at POST with lessons, social dancing, tasty beverages, and more!",
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f50739208323_Small.jpg"
@@ -48,7 +48,7 @@
     "type": "event",
     "startDate": 1795136400000,
     "endDate": 1795147200000,
-    "showDate": 1795068000000,
+    "showDate": 1794463200000,
     "location": "x-atrium",
     "description": "Salsa Night at POST with lessons, social dancing, tasty beverages, and more!",
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f50739208323_Small.jpg"
@@ -59,7 +59,7 @@
     "type": "event",
     "startDate": 1795140000000,
     "endDate": 1795154399999,
-    "showDate": 1795068000000,
+    "showDate": 1794463200000,
     "location": "713-music-hall",
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a01a5c799e2726b91d8967b_525f0ed8-7730-4797-90a5-01b1c4c21316_TABLET_LANDSCAPE_LARGE_16_9.webp"
   },
@@ -69,7 +69,7 @@
     "type": "event",
     "startDate": 1795143600000,
     "endDate": 1795161600000,
-    "showDate": 1795068000000,
+    "showDate": 1794463200000,
     "location": "art-club",
     "description": "Rising Argentinian electronic duo EQ touches down at Art Club",
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6ab14c6e83943882f569f53b_Club-107_web.jpg"
@@ -80,7 +80,7 @@
     "type": "event",
     "startDate": 1795222800000,
     "endDate": 1795230000000,
-    "showDate": 1795154400000,
+    "showDate": 1794549600000,
     "location": "the-docks",
     "description": "Jazz Jam on the Docks for our Spring Concert Series with Madison Arts Inc & More!",
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a0f371747145123c60247e9_web%20banner%201.jpg"
@@ -91,7 +91,7 @@
     "type": "event",
     "startDate": 1795226400000,
     "endDate": 1795240799999,
-    "showDate": 1795154400000,
+    "showDate": 1794549600000,
     "location": "713-music-hall",
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a8fa5ca9680b212e49b9ad4_c4307fa6-8d53-4c29-9f64-3ee62bcc558e_TABLET_LANDSCAPE_LARGE_16_9.webp"
   },
@@ -101,7 +101,7 @@
     "type": "event",
     "startDate": 1795226400000,
     "endDate": 1795233600000,
-    "showDate": 1795154400000,
+    "showDate": 1794549600000,
     "location": "outpost",
     "description": "Ring of Fire LIVE: A tribute to Johnny Cash comes to POST for an unforgettable live concert experience!",
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a2c77c88eb2dd61f29ef21f_banner%20-%20small.jpg"
@@ -112,7 +112,7 @@
     "type": "event",
     "startDate": 1795233600000,
     "endDate": 1795251600000,
-    "showDate": 1795154400000,
+    "showDate": 1794549600000,
     "location": "art-club",
     "description": "Kyle Watson is a globally recognized house artist known for his signature blend of rolling basslines and forward-thinking production, with support from John Summit, Chris Lake, and Gorgon City and performances at Coachella, Lollapalooza, and headline shows worldwide.",
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a342d4faf7f74fde9ccb9c7_Club-69_web.jpg"
@@ -123,7 +123,7 @@
     "type": "event",
     "startDate": 1795284000000,
     "endDate": 1795302000000,
-    "showDate": 1795240800000,
+    "showDate": 1794636000000,
     "location": "x-atrium",
     "description": "Get ready for a day full of shopping, community and fun for everyone to enjoy with us at our annual Fall Fest!🍂",
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6ad24018ee309537e63a6c19_web%20banner.jpg"
@@ -134,7 +134,7 @@
     "type": "event",
     "startDate": 1795291200000,
     "endDate": 1795302000000,
-    "showDate": 1795240800000,
+    "showDate": 1794636000000,
     "location": "skylawn-room",
     "description": "Join us for a Mom & Baby Workout Class!",
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a4e7d979b33e1a46f297cc3_web%20banner.jpg"
@@ -145,7 +145,7 @@
     "type": "event",
     "startDate": 1795294800000,
     "endDate": 1795302000000,
-    "showDate": 1795240800000,
+    "showDate": 1794636000000,
     "location": "z-atrium",
     "description": "Kazoku Saxophone Quartet brings classical music to the Z Atrium",
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/68a3a6fc7a5e9114ebcf165b_web%20use.webp"
@@ -156,7 +156,7 @@
     "type": "event",
     "startDate": 1795312800000,
     "endDate": 1795327199999,
-    "showDate": 1795240800000,
+    "showDate": 1794636000000,
     "location": "713-music-hall",
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/69dd93930f588fd276c00a61_38e0c356-6bcb-4cd2-ab5d-97809a77ce90_TABLET_LANDSCAPE_LARGE_16_9.jpg"
   },
@@ -166,7 +166,7 @@
     "type": "event",
     "startDate": 1795320000000,
     "endDate": 1795338000000,
-    "showDate": 1795240800000,
+    "showDate": 1794636000000,
     "location": "art-club",
     "description": "Art Club welcomes DJ_Dave, an electronic artist and producer who creates music live by writing code on stage, combining real-time sound synthesis, projected coding, and live vocals into a performance unlike anything else in electronic music.",
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a8dd326ca8b2d1827fdedff_Club-17_web.jpg"
@@ -177,7 +177,7 @@
     "type": "event",
     "startDate": 1795388400000,
     "endDate": 1795395600000,
-    "showDate": 1795327200000,
+    "showDate": 1794722400000,
     "location": "the-docks",
     "description": "Mother Nature + The Everlasting Vibez LIVE Show on The Docks",
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af7c0bcbe4f4645428f9aa9_Orange%20Black%20Bold%20Modern%20Music%20Concert%20Event%20Flyer%20-%201cropresize.png"
