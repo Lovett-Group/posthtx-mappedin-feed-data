@@ -47,6 +47,11 @@
     ],
     "categories": [
       "eat-cheers"
+    ],
+    "states": [
+      {
+        "type": "coming-soon"
+      }
     ]
   },
   {
