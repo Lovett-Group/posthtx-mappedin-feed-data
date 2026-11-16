@@ -3095,11 +3095,39 @@
       "eat",
       "destinations"
     ],
-    "description": "International Food Hall",
+    "description": "Food, drinks, and groceries from Texas and international vendors.",
     "tags": [
       "Eateries",
       "Bar",
       "food hall"
+    ],
+    "social": {
+      "facebook": "https://www.facebook.com/postmarkethtx/",
+      "instagram": "https://www.instagram.com/postmarkethtx",
+      "website": "https://www.posthtx.com/eat"
+    },
+    "operationHours": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "opens": "11:00",
+        "closes": "21:00",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Sunday"
+        ]
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "opens": "11:00",
+        "closes": "22:00",
+        "dayOfWeek": [
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ]
+      }
     ]
   }
 ]
