@@ -2381,6 +2381,41 @@
     }
   },
   {
+    "name": "Main Parking Lot (North)",
+    "externalId": "parking-north",
+    "type": "Space",
+    "polygons": [],
+    "nodes": [
+      "NODE-LCGFT60X"
+    ],
+    "categories": [
+      "parking"
+    ],
+    "tags": [
+      "Parking Lot",
+      "Main Parking Lot",
+      "North Parking Lot"
+    ]
+  },
+  {
+    "name": "Main Parking Lot (West)",
+    "externalId": "parking-west",
+    "type": "Space",
+    "polygons": [],
+    "nodes": [
+      "NODE-0D4W7EGL"
+    ],
+    "categories": [
+      "parking"
+    ],
+    "tags": [
+      "Parking Lot",
+      "Main Parking Lot",
+      "West Parking Lot",
+      "EV Charging"
+    ]
+  },
+  {
     "name": "Redfin",
     "externalId": "tenant-redfin",
     "type": "Tenant",
@@ -2697,6 +2732,41 @@
           "Sunday"
         ]
       }
+    ]
+  },
+  {
+    "name": "East Parking Lot",
+    "externalId": "parking-east",
+    "type": "Space",
+    "polygons": [],
+    "nodes": [
+      "NODE-CJGX8GXH"
+    ],
+    "categories": [
+      "parking"
+    ],
+    "tags": [
+      "Parking Lot",
+      "Main Parking Lot",
+      "East Parking Lot"
+    ]
+  },
+  {
+    "name": "SW Parking Lot",
+    "externalId": "parking-sw",
+    "type": "Space",
+    "polygons": [],
+    "nodes": [
+      "NODE-ZTM1JB4A"
+    ],
+    "categories": [
+      "parking"
+    ],
+    "tags": [
+      "Parking Lot",
+      "Southwest Parking Lot",
+      "southwest parking",
+      "sw lot"
     ]
   },
   {
