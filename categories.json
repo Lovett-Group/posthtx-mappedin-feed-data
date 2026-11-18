@@ -112,7 +112,8 @@
   {
     "name": "RESTROOMS",
     "externalId": "restrooms",
-    "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af74c595f000478b651b2e5_restroom-all.svg"
+    "iconKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af74c595f000478b651b2e5_restroom-all.svg",
+    "pictureKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6afdc553d885a5666f18c28b_Restroom.jpg"
   },
   {
     "name": "GUEST SERVICES",
