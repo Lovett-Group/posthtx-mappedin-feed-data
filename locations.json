@@ -19,6 +19,7 @@
       "destinations"
     ],
     "description": "Public space for everyone",
+    "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6afdef01731af52561e5a702_fallback-logo-destinations.png",
     "tags": [
       "Event",
       "skylawn",
@@ -36,7 +37,8 @@
     "categories": [
       "destinations"
     ],
-    "parent": "z-atrium"
+    "parent": "z-atrium",
+    "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6afdef01731af52561e5a702_fallback-logo-destinations.png"
   },
   {
     "name": "Lovejoy Bar",
@@ -2405,6 +2407,7 @@
     "categories": [
       "parking"
     ],
+    "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6afdeeecb352533626767808_fallback-logo-parking.png",
     "tags": [
       "Parking Lot",
       "Main Parking Lot",
@@ -2422,6 +2425,7 @@
     "categories": [
       "parking"
     ],
+    "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6afdeeecb352533626767808_fallback-logo-parking.png",
     "tags": [
       "Parking Lot",
       "Main Parking Lot",
@@ -2489,7 +2493,8 @@
     ],
     "categories": [
       "destinations"
-    ]
+    ],
+    "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6afdef01731af52561e5a702_fallback-logo-destinations.png"
   },
   {
     "name": "El Tiempo Cantina",
@@ -2603,6 +2608,7 @@
     ],
     "parent": "skylawn",
     "description": "Urban food farm operated by Blackwood Educational Land Institute",
+    "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6afdef01731af52561e5a702_fallback-logo-destinations.png",
     "tags": [
       "Farm",
       "Group Tour"
@@ -2620,6 +2626,7 @@
       "destinations"
     ],
     "parent": "z-atrium",
+    "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6afdef01731af52561e5a702_fallback-logo-destinations.png",
     "tags": [
       "lobby"
     ]
@@ -2653,6 +2660,7 @@
       "destinations"
     ],
     "description": "Event venue for public & private gatherings.",
+    "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6afdef01731af52561e5a702_fallback-logo-destinations.png",
     "headerImage": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af49d66d9de25d88cdbc24d_6af49c9a2d1ff32850c31561_photo-mockup-color-correction-2026-06-24-16-55-02-web200w.jpeg",
     "gallery": [
       {
@@ -2762,6 +2770,7 @@
     "categories": [
       "parking"
     ],
+    "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6afdeeecb352533626767808_fallback-logo-parking.png",
     "tags": [
       "Parking Lot",
       "Main Parking Lot",
@@ -2779,6 +2788,7 @@
     "categories": [
       "parking"
     ],
+    "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6afdeeecb352533626767808_fallback-logo-parking.png",
     "tags": [
       "Parking Lot",
       "Southwest Parking Lot",
@@ -2797,6 +2807,7 @@
       "destinations"
     ],
     "description": "Event venue for public & private gatherings.",
+    "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6afdef01731af52561e5a702_fallback-logo-destinations.png",
     "headerImage": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a42f6b8a559aaa4de4a1f13_69c44fca0849daab39ff24e0_SkylawnRoom-4.webp",
     "gallery": [
       {
@@ -2827,6 +2838,7 @@
       "destinations"
     ],
     "parent": "x-atrium",
+    "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6afdef01731af52561e5a702_fallback-logo-destinations.png",
     "tags": [
       "southeast pod",
       "southeast gallery",
@@ -2845,6 +2857,7 @@
       "destinations"
     ],
     "description": "Event venue for public & private gatherings.",
+    "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6afdef01731af52561e5a702_fallback-logo-destinations.png",
     "headerImage": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af49d65d9de25d88cdbc22b_6af49c9ada3820287e680425_mytexasjourney-barbara-31-web.jpeg",
     "tags": [
       "barbara jordan"
@@ -2881,6 +2894,7 @@
       "destinations"
     ],
     "parent": "x-atrium",
+    "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6afdef01731af52561e5a702_fallback-logo-destinations.png",
     "tags": [
       "northeast pod",
       "ne pod"
@@ -2898,6 +2912,7 @@
       "destinations"
     ],
     "description": "Outdoor seating and event venue for all.",
+    "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6afdef01731af52561e5a702_fallback-logo-destinations.png",
     "headerImage": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af49d433fde6f05e813af91_6af49c9ac87ea100815ed764_docks-market.webp",
     "tags": [
       "north docks",
@@ -2934,6 +2949,7 @@
     ],
     "parent": "tenant-common-desk-by-wework",
     "description": "32-seat training room for coworking & meetings.",
+    "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6afdef01731af52561e5a702_fallback-logo-destinations.png",
     "tags": [
       "Venue Rental",
       "Coworking",
@@ -2976,6 +2992,7 @@
       "destinations"
     ],
     "description": "X Atrium",
+    "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6afdef01731af52561e5a702_fallback-logo-destinations.png",
     "headerImage": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a42f6b9a559aaa4de4a1f63_66abe0a90447f50739207b93_x-atirum-4.jpeg",
     "tags": [
       "Utilities",
@@ -3016,6 +3033,7 @@
       "destinations"
     ],
     "description": "Event venue for public & private gatherings.",
+    "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6afdef01731af52561e5a702_fallback-logo-destinations.png",
     "headerImage": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a42f6b9a559aaa4de4a1f3f_66abe0a90447f50739207ccf_The-office-cover.webp",
     "tags": [
       "the office"
@@ -3112,6 +3130,7 @@
     ],
     "parent": "skylawn",
     "description": "Public space for everyone",
+    "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6afdef01731af52561e5a702_fallback-logo-destinations.png",
     "tags": [
       "Event",
       "lawn",
@@ -3130,6 +3149,7 @@
       "destinations"
     ],
     "description": "Event venue for public & private gatherings.",
+    "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6afdef01731af52561e5a702_fallback-logo-destinations.png",
     "headerImage": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af49d65d9de25d88cdbc22f_6af49c9ad01cfc715c7227ff_gaz09288-small-web.webp",
     "gallery": [
       {
@@ -3167,6 +3187,7 @@
       "destinations"
     ],
     "description": "Z Atrium",
+    "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6afdef01731af52561e5a702_fallback-logo-destinations.png",
     "tags": [
       "Utilities",
       "z atrium"
@@ -3185,6 +3206,7 @@
       "destinations"
     ],
     "description": "Food, drinks, and groceries from Texas and international vendors.",
+    "logoKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6afdef01731af52561e5a702_fallback-logo-destinations.png",
     "tags": [
       "Eateries",
       "Bar",
