@@ -1,27 +1,5 @@
 [
   {
-    "name": "Trivia Tuesday: Holiday Blockbusters and More",
-    "externalId": "6af478b99125e876b3a2482a",
-    "type": "event",
-    "startDate": 1794960000000,
-    "endDate": 1794967200000,
-    "showDate": 1794290400000,
-    "location": "post-market",
-    "description": "Join us every Tuesday evening at POST Market for Trivia Tuesdays. Test your knowledge across a wide range of topics, from pop culture and movies to history and sports.",
-    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66c8a8f367c7e7fef3b5f6de_1.Trivia%20Night%20-%20Web.webp"
-  },
-  {
-    "name": "Free Zumba Class - Tuesday",
-    "externalId": "66abe0a90447f50739207dfe",
-    "type": "event",
-    "startDate": 1794961800000,
-    "endDate": 1794965400000,
-    "showDate": 1794290400000,
-    "location": "x-atrium",
-    "description": "POST is hosting Free Zumba Classes every 3rd Tuesday of the month!",
-    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a425e77a8442a599feb8cee_Zumba.jpg"
-  },
-  {
     "name": "RAWAYANA - ¿Dónde es el after? World Tour",
     "externalId": "69dd903d756d120e67f54588",
     "type": "event",
@@ -192,5 +170,27 @@
     "location": "barbara-jordan-plaza",
     "description": "Join Alahrar Dabke Group for a free, high-energy evening celebrating dabke, the traditional Levantine folk dance rooted in rhythm, movement, and community—powered by Pistachio's Coffee Shop.",
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a8dc3003b92ee50aa2be5d8_new%20photo.jpg"
+  },
+  {
+    "name": "Free Spanish Yoga Class",
+    "externalId": "6ae917d09e27eed30776c23e-the-office",
+    "type": "event",
+    "startDate": 1795654800000,
+    "endDate": 1795658400000,
+    "showDate": 1794981600000,
+    "location": "the-office",
+    "description": "All levels free yoga IN SPANISH.",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/670060b50e71b2e308266ad6_processed-B9516666-F10C-402B-8176-E4E92E3F2176.webp"
+  },
+  {
+    "name": "Free Spanish Yoga Class",
+    "externalId": "6ae917d09e27eed30776c23e-x-atrium",
+    "type": "event",
+    "startDate": 1795654800000,
+    "endDate": 1795658400000,
+    "showDate": 1794981600000,
+    "location": "x-atrium",
+    "description": "All levels free yoga IN SPANISH.",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/670060b50e71b2e308266ad6_processed-B9516666-F10C-402B-8176-E4E92E3F2176.webp"
   }
 ]
