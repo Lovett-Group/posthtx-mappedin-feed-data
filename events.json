@@ -181,5 +181,16 @@
     "location": "the-docks",
     "description": "Mother Nature + The Everlasting Vibez LIVE Show on The Docks",
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af7c0bcbe4f4645428f9aa9_Orange%20Black%20Bold%20Modern%20Music%20Concert%20Event%20Flyer%20-%201cropresize.png"
+  },
+  {
+    "name": "Dabke Dance Class | Alahrar Dabke Group X Pistachio's Coffee",
+    "externalId": "6afce45d8924e643ef5c508e",
+    "type": "event",
+    "startDate": 1795568400000,
+    "endDate": 1795575600000,
+    "showDate": 1794895200000,
+    "location": "barbara-jordan-plaza",
+    "description": "Join Alahrar Dabke Group for a free, high-energy evening celebrating dabke, the traditional Levantine folk dance rooted in rhythm, movement, and community—powered by Pistachio's Coffee Shop.",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a8dc3003b92ee50aa2be5d8_new%20photo.jpg"
   }
 ]
