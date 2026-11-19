@@ -1,14 +1,14 @@
 [
   {
-    "name": "Salsa y Bachata Night",
-    "externalId": "66abe0a90447f50739207df0-the-office",
+    "name": "The Social Infusion: Game Night at POST",
+    "externalId": "6afedbcd45ae2b373796bb77",
     "type": "event",
-    "startDate": 1795136400000,
-    "endDate": 1795147200000,
+    "startDate": 1795132800000,
+    "endDate": 1795143600000,
     "showDate": 1794463200000,
-    "location": "the-office",
-    "description": "Salsa Night at POST with lessons, social dancing, tasty beverages, and more!",
-    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f50739208323_Small.jpg"
+    "location": "post-market",
+    "description": "Join us for POST Market Game Night! Enjoy food from POST Market International Food Hall and gather with others to enjoy a variety of games.",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6accd7ef2ee6616b062c4e37_Game%20Night.png"
   },
   {
     "name": "Salsa y Bachata Night",
@@ -18,6 +18,17 @@
     "endDate": 1795147200000,
     "showDate": 1794463200000,
     "location": "x-atrium",
+    "description": "Salsa Night at POST with lessons, social dancing, tasty beverages, and more!",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f50739208323_Small.jpg"
+  },
+  {
+    "name": "Salsa y Bachata Night",
+    "externalId": "66abe0a90447f50739207df0-the-office",
+    "type": "event",
+    "startDate": 1795136400000,
+    "endDate": 1795147200000,
+    "showDate": 1794463200000,
+    "location": "the-office",
     "description": "Salsa Night at POST with lessons, social dancing, tasty beverages, and more!",
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f50739208323_Small.jpg"
   },
@@ -140,6 +151,17 @@
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a8dd326ca8b2d1827fdedff_Club-17_web.jpg"
   },
   {
+    "name": "Eden Church Houston: Sunday Service",
+    "externalId": "67ad0cca3430a3bc450b472e",
+    "type": "event",
+    "startDate": 1795357800000,
+    "endDate": 1795372200000,
+    "showDate": 1794722400000,
+    "location": "z-atrium",
+    "description": "Join Eden Church for service every Sunday!",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/67ad1c077094a2e5706a4936_Eden%20Church%20Houston%20Gathering%20-1200px.webp"
+  },
+  {
     "name": "Mother Nature + The Everlasting Vibez | LIVE On The Docks",
     "externalId": "6af7c0c261ae74f71be806af",
     "type": "event",
@@ -149,6 +171,17 @@
     "location": "the-docks",
     "description": "Mother Nature + The Everlasting Vibez LIVE Show on The Docks",
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6af7c0bcbe4f4645428f9aa9_Orange%20Black%20Bold%20Modern%20Music%20Concert%20Event%20Flyer%20-%201cropresize.png"
+  },
+  {
+    "name": "Trivia Tuesday: Thanksgiving Traditions and More",
+    "externalId": "6afedc0322ed4d45a43e1115",
+    "type": "event",
+    "startDate": 1795564800000,
+    "endDate": 1795572000000,
+    "showDate": 1794895200000,
+    "location": "post-market",
+    "description": "Join us every Tuesday evening at POST Market for Trivia Tuesdays. Test your knowledge across a wide range of topics, from pop culture and movies to history and sports.",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66c8a8f367c7e7fef3b5f6de_1.Trivia%20Night%20-%20Web.webp"
   },
   {
     "name": "Dabke Dance Class | Alahrar Dabke Group X Pistachio's Coffee",
