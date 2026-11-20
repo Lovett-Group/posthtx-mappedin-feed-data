@@ -1,48 +1,5 @@
 [
   {
-    "name": "The Social Infusion: Game Night at POST",
-    "externalId": "6afedbcd45ae2b373796bb77",
-    "type": "event",
-    "startDate": 1795132800000,
-    "endDate": 1795143600000,
-    "showDate": 1794463200000,
-    "location": "post-market",
-    "description": "Join us for POST Market Game Night! Enjoy food from POST Market International Food Hall and gather with others to enjoy a variety of games.",
-    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6accd7ef2ee6616b062c4e37_Game%20Night.png"
-  },
-  {
-    "name": "Salsa y Bachata Night",
-    "externalId": "66abe0a90447f50739207df0-x-atrium",
-    "type": "event",
-    "startDate": 1795136400000,
-    "endDate": 1795147200000,
-    "showDate": 1794463200000,
-    "location": "x-atrium",
-    "description": "Salsa Night at POST with lessons, social dancing, tasty beverages, and more!",
-    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f50739208323_Small.jpg"
-  },
-  {
-    "name": "Salsa y Bachata Night",
-    "externalId": "66abe0a90447f50739207df0-the-office",
-    "type": "event",
-    "startDate": 1795136400000,
-    "endDate": 1795147200000,
-    "showDate": 1794463200000,
-    "location": "the-office",
-    "description": "Salsa Night at POST with lessons, social dancing, tasty beverages, and more!",
-    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/66abe0a90447f50739208323_Small.jpg"
-  },
-  {
-    "name": "RAWAYANA - ¿Dónde es el after? World Tour",
-    "externalId": "6a01a5d0d534d8e6a8130920",
-    "type": "event",
-    "startDate": 1795140000000,
-    "endDate": 1795154399999,
-    "showDate": 1794463200000,
-    "location": "713-music-hall",
-    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a01a5c799e2726b91d8967b_525f0ed8-7730-4797-90a5-01b1c4c21316_TABLET_LANDSCAPE_LARGE_16_9.webp"
-  },
-  {
     "name": "DJ Night — EQ",
     "externalId": "6abeabbfe62a43734671513e",
     "type": "event",
@@ -204,5 +161,37 @@
     "location": "x-atrium",
     "description": "All levels free yoga IN SPANISH.",
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/670060b50e71b2e308266ad6_processed-B9516666-F10C-402B-8176-E4E92E3F2176.webp"
+  },
+  {
+    "name": "Movie Night on the Lawn: The Nightmare Before Christmas",
+    "externalId": "6a5a8c084277077c3aef2f33",
+    "type": "event",
+    "startDate": 1795827600000,
+    "endDate": 1795834800000,
+    "showDate": 1795154400000,
+    "location": "lawn",
+    "description": "Come by POST for Movie Night on the Lawn! For this edition on our rooftop park, we'll be showing 'The Nightmare Before Christmas.'",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a5a8badfb04fce783e14dbc_Nightmare.jpg"
+  },
+  {
+    "name": "WWE/AAA Presents: AAA LIVE TOUR",
+    "externalId": "6ac33ffe505bd2284855c00f",
+    "type": "event",
+    "startDate": 1795834800000,
+    "endDate": 1795845599999,
+    "showDate": 1795154400000,
+    "location": "713-music-hall",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6ac33fce41c8920e09764ee5_wwe.jpg"
+  },
+  {
+    "name": "DJ Night — Yamagucci",
+    "externalId": "6adfd09461fe23c0d918745e",
+    "type": "event",
+    "startDate": 1795838400000,
+    "endDate": 1795856400000,
+    "showDate": 1795154400000,
+    "location": "art-club",
+    "description": "Yamagucci makes his Art Club debut!",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6ac6c54d6fedd9c8c7bd6815_id_491_52eb0a79-77b6-4ecd-123456789eef-2ab857ee30e7.webp"
   }
 ]
