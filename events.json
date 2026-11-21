@@ -1,37 +1,5 @@
 [
   {
-    "name": "DJ Night — EQ",
-    "externalId": "6abeabbfe62a43734671513e",
-    "type": "event",
-    "startDate": 1795143600000,
-    "endDate": 1795161600000,
-    "showDate": 1794463200000,
-    "location": "art-club",
-    "description": "Rising Argentinian electronic duo EQ touches down at Art Club",
-    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6ab14c6e83943882f569f53b_Club-107_web.jpg"
-  },
-  {
-    "name": "Jazz Jam on the Docks",
-    "externalId": "6a9102cfe676bcd72819f42a",
-    "type": "event",
-    "startDate": 1795222800000,
-    "endDate": 1795230000000,
-    "showDate": 1794549600000,
-    "location": "the-docks",
-    "description": "Jazz Jam on the Docks for our Spring Concert Series with Madison Arts Inc & More!",
-    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a0f371747145123c60247e9_web%20banner%201.jpg"
-  },
-  {
-    "name": "Pedro Fernández - Ave Fénix Two'r",
-    "externalId": "6a8fa6018ca81c670c4a75ae",
-    "type": "event",
-    "startDate": 1795226400000,
-    "endDate": 1795240799999,
-    "showDate": 1794549600000,
-    "location": "713-music-hall",
-    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a8fa5ca9680b212e49b9ad4_c4307fa6-8d53-4c29-9f64-3ee62bcc558e_TABLET_LANDSCAPE_LARGE_16_9.webp"
-  },
-  {
     "name": "DJ Night — Kyle Watson",
     "externalId": "6adfd03a762406c3fb668fb1",
     "type": "event",
@@ -193,5 +161,59 @@
     "location": "art-club",
     "description": "Yamagucci makes his Art Club debut!",
     "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6ac6c54d6fedd9c8c7bd6815_id_491_52eb0a79-77b6-4ecd-123456789eef-2ab857ee30e7.webp"
+  },
+  {
+    "name": "Nutcracker Infinity Opening Celebration",
+    "externalId": "6aff17eb2e81934defd68a93-art-club",
+    "type": "event",
+    "startDate": 1795906800000,
+    "endDate": 1795917600000,
+    "showDate": 1795240800000,
+    "location": "art-club",
+    "description": "Join us as Art Club rings in the holidays with drinks, decorations, and dazzling ballet of our Nutcracker Infinity exhibit in Art Club's Infinity Room!",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6aff17bd861a9477e1636823_web%20use%20banner.jpg"
+  },
+  {
+    "name": "Nutcracker Infinity Opening Celebration",
+    "externalId": "6aff17eb2e81934defd68a93-tenant-art-club-store",
+    "type": "event",
+    "startDate": 1795906800000,
+    "endDate": 1795917600000,
+    "showDate": 1795240800000,
+    "location": "tenant-art-club-store",
+    "description": "Join us as Art Club rings in the holidays with drinks, decorations, and dazzling ballet of our Nutcracker Infinity exhibit in Art Club's Infinity Room!",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6aff17bd861a9477e1636823_web%20use%20banner.jpg"
+  },
+  {
+    "name": "Karaoke Night: Saturday Mic Fever",
+    "externalId": "682e5f15eeeb18d6094bde5d",
+    "type": "event",
+    "startDate": 1795914000000,
+    "endDate": 1795924800000,
+    "showDate": 1795240800000,
+    "location": "the-docks",
+    "description": "Sing your heart out at a special Saturday night edition of Karaoke Night on the Docks!",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/683766e324e89ebd1cbba0c0_20250528_SNF_WEBSITE%20(edit).webp"
+  },
+  {
+    "name": "BEAT: Belew/Vai/Levin/Bozzio Performing the Music of KING CRIMSON",
+    "externalId": "6a7d72152b6e2ebe30eb6474",
+    "type": "event",
+    "startDate": 1795917600000,
+    "endDate": 1795931999999,
+    "showDate": 1795240800000,
+    "location": "713-music-hall",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/6a7d71f4a7641faa996dae92_e58a2592-728f-4741-be53-6a7a6d97b461_TABLET_LANDSCAPE_LARGE_16_9.webp"
+  },
+  {
+    "name": "Queen Tribute Band Rooftop Concert",
+    "externalId": "68ed7b10850fc92ad1a342b8",
+    "type": "event",
+    "startDate": 1795917600000,
+    "endDate": 1795924800000,
+    "showDate": 1795240800000,
+    "location": "outpost",
+    "description": "Queen Legacy, the amazing Queen tribute band, takes the stage at Outpost, our rooftop pavilion, for a memorable performance on March 6th!",
+    "imageKey": "https://cdn.prod.website-files.com/66abe0a90447f50739207a39/67b8fa1b619193506fe9b0a4_Queen%201_reduced.jpg"
   }
 ]
